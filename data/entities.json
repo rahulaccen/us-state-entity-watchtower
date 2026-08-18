@@ -1,0 +1,952 @@
+{
+  "generatedAt": "2026-08-18T09:25:00Z",
+  "sourceFile": "US_Data_Landscape .xlsx",
+  "states": [
+    "Arizona",
+    "Florida",
+    "Massachusetts",
+    "New York",
+    "North Carolina",
+    "Ohio",
+    "Pennsylvania",
+    "Texas"
+  ],
+  "entities": [
+    {
+      "rowNumber": 2,
+      "state": "Arizona",
+      "category": "Agency",
+      "name": "Arizona Health Care Cost Containment System"
+    },
+    {
+      "rowNumber": 3,
+      "state": "Arizona",
+      "category": "Agency",
+      "name": "City of Phoenix"
+    },
+    {
+      "rowNumber": 4,
+      "state": "Arizona",
+      "category": "Agency",
+      "name": "Maricopa County"
+    },
+    {
+      "rowNumber": 66,
+      "state": "Florida",
+      "category": "Agency",
+      "name": "Florida Department of Financial Services"
+    },
+    {
+      "rowNumber": 67,
+      "state": "Florida",
+      "category": "Agency",
+      "name": "JEA"
+    },
+    {
+      "rowNumber": 68,
+      "state": "Florida",
+      "category": "Competition",
+      "name": "CGI (CGI Federal)"
+    },
+    {
+      "rowNumber": 69,
+      "state": "Florida",
+      "category": "Competition",
+      "name": "Deloitte (GPS)"
+    },
+    {
+      "rowNumber": 70,
+      "state": "Florida",
+      "category": "Competition",
+      "name": "Guidehouse"
+    },
+    {
+      "rowNumber": 71,
+      "state": "Florida",
+      "category": "Competition",
+      "name": "IBM (Consulting)"
+    },
+    {
+      "rowNumber": 72,
+      "state": "Florida",
+      "category": "Competition",
+      "name": "KPMG"
+    },
+    {
+      "rowNumber": 73,
+      "state": "Florida",
+      "category": "Competition",
+      "name": "EY (Ernst & Young)"
+    },
+    {
+      "rowNumber": 74,
+      "state": "Florida",
+      "category": "Competition",
+      "name": "Huron Consulting Group"
+    },
+    {
+      "rowNumber": 75,
+      "state": "Florida",
+      "category": "Ecosystem Partner",
+      "name": "Oracle (OCI Government)"
+    },
+    {
+      "rowNumber": 76,
+      "state": "Florida",
+      "category": "Ecosystem Partner",
+      "name": "SAP (SAP NS2)"
+    },
+    {
+      "rowNumber": 77,
+      "state": "Florida",
+      "category": "Ecosystem Partner",
+      "name": "Salesforce (Government Cloud)"
+    },
+    {
+      "rowNumber": 78,
+      "state": "Florida",
+      "category": "Ecosystem Partner",
+      "name": "Workday"
+    },
+    {
+      "rowNumber": 79,
+      "state": "Florida",
+      "category": "Political Institution",
+      "name": "Florida Department of Financial Services"
+    },
+    {
+      "rowNumber": 80,
+      "state": "Florida",
+      "category": "Political Institution",
+      "name": "Florida Department of Highway Safety and Motor Vehicles (HSMV)"
+    },
+    {
+      "rowNumber": 81,
+      "state": "Florida",
+      "category": "Political Institution",
+      "name": "Florida Digital Service (central IT)"
+    },
+    {
+      "rowNumber": 82,
+      "state": "Florida",
+      "category": "Political Institution",
+      "name": "Florida Legislature"
+    },
+    {
+      "rowNumber": 83,
+      "state": "Florida",
+      "category": "Political Institution",
+      "name": "Governor of Florida"
+    },
+    {
+      "rowNumber": 84,
+      "state": "Florida",
+      "category": "Political Institution",
+      "name": "JEA (Jacksonville Electric Authority)"
+    },
+    {
+      "rowNumber": 190,
+      "state": "Massachusetts",
+      "category": "Agency",
+      "name": "Massachusetts Executive Office of Housing and Livable Communities"
+    },
+    {
+      "rowNumber": 191,
+      "state": "Massachusetts",
+      "category": "Agency",
+      "name": "Massachusetts Office of the Comptroller"
+    },
+    {
+      "rowNumber": 192,
+      "state": "Massachusetts",
+      "category": "Agency",
+      "name": "City of Worcester"
+    },
+    {
+      "rowNumber": 193,
+      "state": "Massachusetts",
+      "category": "Agency",
+      "name": "Public Consulting Group"
+    },
+    {
+      "rowNumber": 194,
+      "state": "Massachusetts",
+      "category": "Competition",
+      "name": "CGI (CGI Federal)"
+    },
+    {
+      "rowNumber": 195,
+      "state": "Massachusetts",
+      "category": "Competition",
+      "name": "Conduent"
+    },
+    {
+      "rowNumber": 196,
+      "state": "Massachusetts",
+      "category": "Competition",
+      "name": "Deloitte (GPS)"
+    },
+    {
+      "rowNumber": 197,
+      "state": "Massachusetts",
+      "category": "Competition",
+      "name": "Guidehouse"
+    },
+    {
+      "rowNumber": 198,
+      "state": "Massachusetts",
+      "category": "Competition",
+      "name": "IBM (Consulting)"
+    },
+    {
+      "rowNumber": 199,
+      "state": "Massachusetts",
+      "category": "Competition",
+      "name": "KPMG"
+    },
+    {
+      "rowNumber": 200,
+      "state": "Massachusetts",
+      "category": "Competition",
+      "name": "Public Consulting Group (PCG)"
+    },
+    {
+      "rowNumber": 201,
+      "state": "Massachusetts",
+      "category": "Competition",
+      "name": "BCG (BCG Federal / BCG X)"
+    },
+    {
+      "rowNumber": 202,
+      "state": "Massachusetts",
+      "category": "Competition",
+      "name": "McKinsey (QuantumBlack)"
+    },
+    {
+      "rowNumber": 203,
+      "state": "Massachusetts",
+      "category": "Competition",
+      "name": "Nava PBC"
+    },
+    {
+      "rowNumber": 204,
+      "state": "Massachusetts",
+      "category": "Competition",
+      "name": "Publicis Sapient"
+    },
+    {
+      "rowNumber": 205,
+      "state": "Massachusetts",
+      "category": "Competition",
+      "name": "Slalom"
+    },
+    {
+      "rowNumber": 206,
+      "state": "Massachusetts",
+      "category": "Ecosystem Partner",
+      "name": "Amazon Web Services (AWS GovCloud)"
+    },
+    {
+      "rowNumber": 207,
+      "state": "Massachusetts",
+      "category": "Ecosystem Partner",
+      "name": "Anthropic (Claude for Government)"
+    },
+    {
+      "rowNumber": 208,
+      "state": "Massachusetts",
+      "category": "Ecosystem Partner",
+      "name": "OpenAI (ChatGPT Enterprise/Gov, incl. DoD/CDAO track)"
+    },
+    {
+      "rowNumber": 209,
+      "state": "Massachusetts",
+      "category": "Ecosystem Partner",
+      "name": "Oracle (OCI Government)"
+    },
+    {
+      "rowNumber": 210,
+      "state": "Massachusetts",
+      "category": "Ecosystem Partner",
+      "name": "Salesforce (Government Cloud)"
+    },
+    {
+      "rowNumber": 211,
+      "state": "Massachusetts",
+      "category": "Ecosystem Partner",
+      "name": "Workday"
+    },
+    {
+      "rowNumber": 212,
+      "state": "Massachusetts",
+      "category": "Ecosystem Partner",
+      "name": "Dell Technologies (Dell Federal)"
+    },
+    {
+      "rowNumber": 213,
+      "state": "Massachusetts",
+      "category": "Ecosystem Partner",
+      "name": "NVIDIA"
+    },
+    {
+      "rowNumber": 214,
+      "state": "Massachusetts",
+      "category": "Political Institution",
+      "name": "Governor of Massachusetts"
+    },
+    {
+      "rowNumber": 215,
+      "state": "Massachusetts",
+      "category": "Political Institution",
+      "name": "Massachusetts Executive Office of Housing and Livable Communities (EOHLC)"
+    },
+    {
+      "rowNumber": 216,
+      "state": "Massachusetts",
+      "category": "Political Institution",
+      "name": "Massachusetts Executive Office of Technology Services and Security (EOTSS)"
+    },
+    {
+      "rowNumber": 217,
+      "state": "Massachusetts",
+      "category": "Political Institution",
+      "name": "Massachusetts Legislature (General Court)"
+    },
+    {
+      "rowNumber": 218,
+      "state": "Massachusetts",
+      "category": "Political Institution",
+      "name": "Massachusetts Office of the Comptroller (CTR)"
+    },
+    {
+      "rowNumber": 343,
+      "state": "New York",
+      "category": "Agency",
+      "name": "New York City Employees' Retirement System"
+    },
+    {
+      "rowNumber": 344,
+      "state": "New York",
+      "category": "Agency",
+      "name": "New York City Office of Technology & Innovation"
+    },
+    {
+      "rowNumber": 345,
+      "state": "New York",
+      "category": "Agency",
+      "name": "New York Institute of Technology"
+    },
+    {
+      "rowNumber": 346,
+      "state": "New York",
+      "category": "Agency",
+      "name": "New York State Department of Health"
+    },
+    {
+      "rowNumber": 347,
+      "state": "New York",
+      "category": "Agency",
+      "name": "New York State Office of Children and Family Services"
+    },
+    {
+      "rowNumber": 348,
+      "state": "New York",
+      "category": "Agency",
+      "name": "City of New York"
+    },
+    {
+      "rowNumber": 349,
+      "state": "New York",
+      "category": "Agency",
+      "name": "NYC FIFA 2026 Host Committee"
+    },
+    {
+      "rowNumber": 350,
+      "state": "New York",
+      "category": "Competition",
+      "name": "CGI (CGI Federal)"
+    },
+    {
+      "rowNumber": 351,
+      "state": "New York",
+      "category": "Competition",
+      "name": "Conduent"
+    },
+    {
+      "rowNumber": 352,
+      "state": "New York",
+      "category": "Competition",
+      "name": "Deloitte (GPS)"
+    },
+    {
+      "rowNumber": 353,
+      "state": "New York",
+      "category": "Competition",
+      "name": "Guidehouse"
+    },
+    {
+      "rowNumber": 354,
+      "state": "New York",
+      "category": "Competition",
+      "name": "IBM (Consulting)"
+    },
+    {
+      "rowNumber": 355,
+      "state": "New York",
+      "category": "Competition",
+      "name": "Public Consulting Group (PCG)"
+    },
+    {
+      "rowNumber": 356,
+      "state": "New York",
+      "category": "Competition",
+      "name": "Unisys"
+    },
+    {
+      "rowNumber": 357,
+      "state": "New York",
+      "category": "Competition",
+      "name": "GDIT (General Dynamics IT)"
+    },
+    {
+      "rowNumber": 358,
+      "state": "New York",
+      "category": "Competition",
+      "name": "ICF International"
+    },
+    {
+      "rowNumber": 359,
+      "state": "New York",
+      "category": "Competition",
+      "name": "NTT DATA"
+    },
+    {
+      "rowNumber": 360,
+      "state": "New York",
+      "category": "Competition",
+      "name": "Optum (UnitedHealth)"
+    },
+    {
+      "rowNumber": 361,
+      "state": "New York",
+      "category": "Competition",
+      "name": "Palantir Technologies"
+    },
+    {
+      "rowNumber": 362,
+      "state": "New York",
+      "category": "Competition",
+      "name": "Peraton"
+    },
+    {
+      "rowNumber": 363,
+      "state": "New York",
+      "category": "Competition",
+      "name": "TCS (Tata Consultancy Services)"
+    },
+    {
+      "rowNumber": 364,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "Amazon Web Services (AWS GovCloud)"
+    },
+    {
+      "rowNumber": 365,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "Anthropic (Claude for Government)"
+    },
+    {
+      "rowNumber": 366,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "Broadcom / VMware"
+    },
+    {
+      "rowNumber": 367,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "Databricks"
+    },
+    {
+      "rowNumber": 368,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "Google (Google Public Sector, incl. Gemini for Government)"
+    },
+    {
+      "rowNumber": 369,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "Microsoft (Azure Government)"
+    },
+    {
+      "rowNumber": 370,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "OpenAI (ChatGPT Enterprise/Gov, incl. DoD/CDAO track)"
+    },
+    {
+      "rowNumber": 371,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "Oracle (OCI Government)"
+    },
+    {
+      "rowNumber": 372,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "Salesforce (Government Cloud)"
+    },
+    {
+      "rowNumber": 373,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "Snowflake"
+    },
+    {
+      "rowNumber": 374,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "Workday"
+    },
+    {
+      "rowNumber": 375,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "Palantir (Foundry / AIP / Gotham)"
+    },
+    {
+      "rowNumber": 376,
+      "state": "New York",
+      "category": "Ecosystem Partner",
+      "name": "Red Hat (OpenShift)"
+    },
+    {
+      "rowNumber": 377,
+      "state": "New York",
+      "category": "Political Institution",
+      "name": "Governor of New York"
+    },
+    {
+      "rowNumber": 378,
+      "state": "New York",
+      "category": "Political Institution",
+      "name": "New York City Mayor's Office / City Hall"
+    },
+    {
+      "rowNumber": 379,
+      "state": "New York",
+      "category": "Political Institution",
+      "name": "New York City Office of Technology and Innovation (OTI)"
+    },
+    {
+      "rowNumber": 380,
+      "state": "New York",
+      "category": "Political Institution",
+      "name": "New York State Department of Health"
+    },
+    {
+      "rowNumber": 381,
+      "state": "New York",
+      "category": "Political Institution",
+      "name": "New York State Legislature"
+    },
+    {
+      "rowNumber": 382,
+      "state": "New York",
+      "category": "Political Institution",
+      "name": "New York State Office of Children and Family Services (OCFS)"
+    },
+    {
+      "rowNumber": 383,
+      "state": "North Carolina",
+      "category": "Agency",
+      "name": "North Carolina Department of Health and Human Services"
+    },
+    {
+      "rowNumber": 384,
+      "state": "North Carolina",
+      "category": "Agency",
+      "name": "North Carolina Division of Public Health"
+    },
+    {
+      "rowNumber": 385,
+      "state": "North Carolina",
+      "category": "Agency",
+      "name": "North Carolina Department of Administration"
+    },
+    {
+      "rowNumber": 386,
+      "state": "North Carolina",
+      "category": "Ecosystem Partner",
+      "name": "Oracle (OCI Government)"
+    },
+    {
+      "rowNumber": 387,
+      "state": "North Carolina",
+      "category": "Ecosystem Partner",
+      "name": "SAP (SAP NS2)"
+    },
+    {
+      "rowNumber": 388,
+      "state": "North Carolina",
+      "category": "Ecosystem Partner",
+      "name": "Salesforce (Government Cloud)"
+    },
+    {
+      "rowNumber": 389,
+      "state": "North Carolina",
+      "category": "Ecosystem Partner",
+      "name": "Workday"
+    },
+    {
+      "rowNumber": 390,
+      "state": "North Carolina",
+      "category": "Political Institution",
+      "name": "Governor of North Carolina"
+    },
+    {
+      "rowNumber": 391,
+      "state": "North Carolina",
+      "category": "Political Institution",
+      "name": "North Carolina Department of Health and Human Services (DHHS)"
+    },
+    {
+      "rowNumber": 392,
+      "state": "North Carolina",
+      "category": "Political Institution",
+      "name": "North Carolina Department of Information Technology (NCDIT)"
+    },
+    {
+      "rowNumber": 393,
+      "state": "North Carolina",
+      "category": "Political Institution",
+      "name": "North Carolina General Assembly"
+    },
+    {
+      "rowNumber": 394,
+      "state": "Ohio",
+      "category": "Agency",
+      "name": "City of Cleveland"
+    },
+    {
+      "rowNumber": 395,
+      "state": "Ohio",
+      "category": "Agency",
+      "name": "JobsOhio"
+    },
+    {
+      "rowNumber": 396,
+      "state": "Ohio",
+      "category": "Agency",
+      "name": "Ohio Department of Administrative Services"
+    },
+    {
+      "rowNumber": 397,
+      "state": "Ohio",
+      "category": "Agency",
+      "name": "Ohio Department of Administrative Services"
+    },
+    {
+      "rowNumber": 398,
+      "state": "Ohio",
+      "category": "Agency",
+      "name": "Ohio Department of Job & Family Services"
+    },
+    {
+      "rowNumber": 399,
+      "state": "Ohio",
+      "category": "Agency",
+      "name": "Ohio Department of Medicaid"
+    },
+    {
+      "rowNumber": 400,
+      "state": "Ohio",
+      "category": "Agency",
+      "name": "Ohio Department of Commerce"
+    },
+    {
+      "rowNumber": 401,
+      "state": "Ohio",
+      "category": "Agency",
+      "name": "Ohio University"
+    },
+    {
+      "rowNumber": 402,
+      "state": "Ohio",
+      "category": "Competition",
+      "name": "Deloitte (GPS)"
+    },
+    {
+      "rowNumber": 403,
+      "state": "Ohio",
+      "category": "Competition",
+      "name": "IBM (Consulting)"
+    },
+    {
+      "rowNumber": 404,
+      "state": "Ohio",
+      "category": "Ecosystem Partner",
+      "name": "Amazon Web Services (AWS GovCloud)"
+    },
+    {
+      "rowNumber": 405,
+      "state": "Ohio",
+      "category": "Ecosystem Partner",
+      "name": "Microsoft (Azure Government)"
+    },
+    {
+      "rowNumber": 406,
+      "state": "Ohio",
+      "category": "Ecosystem Partner",
+      "name": "Oracle (OCI Government)"
+    },
+    {
+      "rowNumber": 407,
+      "state": "Ohio",
+      "category": "Ecosystem Partner",
+      "name": "Salesforce (Government Cloud)"
+    },
+    {
+      "rowNumber": 408,
+      "state": "Ohio",
+      "category": "Ecosystem Partner",
+      "name": "ServiceNow"
+    },
+    {
+      "rowNumber": 409,
+      "state": "Ohio",
+      "category": "Ecosystem Partner",
+      "name": "Snowflake"
+    },
+    {
+      "rowNumber": 410,
+      "state": "Ohio",
+      "category": "Ecosystem Partner",
+      "name": "Workday"
+    },
+    {
+      "rowNumber": 411,
+      "state": "Ohio",
+      "category": "Ecosystem Partner",
+      "name": "Adobe"
+    },
+    {
+      "rowNumber": 412,
+      "state": "Ohio",
+      "category": "Political Institution",
+      "name": "Governor of Ohio"
+    },
+    {
+      "rowNumber": 413,
+      "state": "Ohio",
+      "category": "Political Institution",
+      "name": "JobsOhio"
+    },
+    {
+      "rowNumber": 414,
+      "state": "Ohio",
+      "category": "Political Institution",
+      "name": "Ohio Department of Administrative Services (DAS)"
+    },
+    {
+      "rowNumber": 415,
+      "state": "Ohio",
+      "category": "Political Institution",
+      "name": "Ohio Department of Job and Family Services (ODJFS)"
+    },
+    {
+      "rowNumber": 416,
+      "state": "Ohio",
+      "category": "Political Institution",
+      "name": "Ohio Department of Medicaid"
+    },
+    {
+      "rowNumber": 417,
+      "state": "Ohio",
+      "category": "Political Institution",
+      "name": "Ohio General Assembly"
+    },
+    {
+      "rowNumber": 440,
+      "state": "Pennsylvania",
+      "category": "Agency",
+      "name": "City of Pittsburgh"
+    },
+    {
+      "rowNumber": 441,
+      "state": "Pennsylvania",
+      "category": "Agency",
+      "name": "Department of General Services"
+    },
+    {
+      "rowNumber": 442,
+      "state": "Pennsylvania",
+      "category": "Agency",
+      "name": "Pennsylvania Office of Administration"
+    },
+    {
+      "rowNumber": 443,
+      "state": "Pennsylvania",
+      "category": "Agency",
+      "name": "University of Pittsburgh"
+    },
+    {
+      "rowNumber": 444,
+      "state": "Pennsylvania",
+      "category": "Political Institution",
+      "name": "City of Pittsburgh"
+    },
+    {
+      "rowNumber": 445,
+      "state": "Pennsylvania",
+      "category": "Political Institution",
+      "name": "Governor of Pennsylvania"
+    },
+    {
+      "rowNumber": 446,
+      "state": "Pennsylvania",
+      "category": "Political Institution",
+      "name": "Pennsylvania General Assembly"
+    },
+    {
+      "rowNumber": 447,
+      "state": "Pennsylvania",
+      "category": "Political Institution",
+      "name": "Pennsylvania Office of Administration (OA)"
+    },
+    {
+      "rowNumber": 448,
+      "state": "Pennsylvania",
+      "category": "Political Institution",
+      "name": "Pennsylvania Office of Administration, Office for Information Technology (OA/OIT)"
+    },
+    {
+      "rowNumber": 496,
+      "state": "Texas",
+      "category": "Agency",
+      "name": "Bexar County"
+    },
+    {
+      "rowNumber": 497,
+      "state": "Texas",
+      "category": "Agency",
+      "name": "Texas Department of Family & Protective Services"
+    },
+    {
+      "rowNumber": 498,
+      "state": "Texas",
+      "category": "Agency",
+      "name": "Texas Department of Transportation"
+    },
+    {
+      "rowNumber": 499,
+      "state": "Texas",
+      "category": "Agency",
+      "name": "Texas Health and Human Services Commission"
+    },
+    {
+      "rowNumber": 500,
+      "state": "Texas",
+      "category": "Agency",
+      "name": "Southwest Research Institute"
+    },
+    {
+      "rowNumber": 501,
+      "state": "Texas",
+      "category": "Competition",
+      "name": "Deloitte (GPS)"
+    },
+    {
+      "rowNumber": 502,
+      "state": "Texas",
+      "category": "Ecosystem Partner",
+      "name": "Amazon Web Services (AWS GovCloud)"
+    },
+    {
+      "rowNumber": 503,
+      "state": "Texas",
+      "category": "Ecosystem Partner",
+      "name": "Anthropic (Claude for Government)"
+    },
+    {
+      "rowNumber": 504,
+      "state": "Texas",
+      "category": "Ecosystem Partner",
+      "name": "Google (Google Public Sector, incl. Gemini for Government)"
+    },
+    {
+      "rowNumber": 505,
+      "state": "Texas",
+      "category": "Ecosystem Partner",
+      "name": "Microsoft (Azure Government)"
+    },
+    {
+      "rowNumber": 506,
+      "state": "Texas",
+      "category": "Ecosystem Partner",
+      "name": "Oracle (OCI Government)"
+    },
+    {
+      "rowNumber": 507,
+      "state": "Texas",
+      "category": "Ecosystem Partner",
+      "name": "SAP (SAP NS2)"
+    },
+    {
+      "rowNumber": 508,
+      "state": "Texas",
+      "category": "Ecosystem Partner",
+      "name": "Salesforce (Government Cloud)"
+    },
+    {
+      "rowNumber": 509,
+      "state": "Texas",
+      "category": "Ecosystem Partner",
+      "name": "ServiceNow"
+    },
+    {
+      "rowNumber": 510,
+      "state": "Texas",
+      "category": "Ecosystem Partner",
+      "name": "Workday"
+    },
+    {
+      "rowNumber": 511,
+      "state": "Texas",
+      "category": "Ecosystem Partner",
+      "name": "Appian"
+    },
+    {
+      "rowNumber": 512,
+      "state": "Texas",
+      "category": "Political Institution",
+      "name": "Bexar County, Texas"
+    },
+    {
+      "rowNumber": 513,
+      "state": "Texas",
+      "category": "Political Institution",
+      "name": "Governor of Texas"
+    },
+    {
+      "rowNumber": 514,
+      "state": "Texas",
+      "category": "Political Institution",
+      "name": "Texas Department of Family and Protective Services (DFPS)"
+    },
+    {
+      "rowNumber": 515,
+      "state": "Texas",
+      "category": "Political Institution",
+      "name": "Texas Health and Human Services Commission (HHSC)"
+    },
+    {
+      "rowNumber": 516,
+      "state": "Texas",
+      "category": "Political Institution",
+      "name": "Texas Legislature"
+    }
+  ]
+}
