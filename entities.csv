@@ -1,0 +1,157 @@
+Sl. No.,State,Agency Type,Name
+2,Arizona,Agency,Arizona Health Care Cost Containment System
+3,Arizona,Agency,City of Phoenix
+4,Arizona,Agency,Maricopa County
+66,Florida,Agency,Florida Department of Financial Services
+67,Florida,Agency,JEA
+68,Florida,Competition,CGI (CGI Federal)
+69,Florida,Competition,Deloitte (GPS)
+70,Florida,Competition,Guidehouse
+71,Florida,Competition,IBM (Consulting)
+72,Florida,Competition,KPMG
+73,Florida,Competition,EY (Ernst & Young)
+74,Florida,Competition,Huron Consulting Group
+75,Florida,Ecosystem Partner,Oracle (OCI Government)
+76,Florida,Ecosystem Partner,SAP (SAP NS2)
+77,Florida,Ecosystem Partner,Salesforce (Government Cloud)
+78,Florida,Ecosystem Partner,Workday
+79,Florida,Political Institution,Florida Department of Financial Services
+80,Florida,Political Institution,Florida Department of Highway Safety and Motor Vehicles (HSMV)
+81,Florida,Political Institution,Florida Digital Service (central IT)
+82,Florida,Political Institution,Florida Legislature
+83,Florida,Political Institution,Governor of Florida
+84,Florida,Political Institution,JEA (Jacksonville Electric Authority)
+190,Massachusetts,Agency,Massachusetts Executive Office of Housing and Livable Communities
+191,Massachusetts,Agency,Massachusetts Office of the Comptroller
+192,Massachusetts,Agency,City of Worcester
+193,Massachusetts,Agency,Public Consulting Group
+194,Massachusetts,Competition,CGI (CGI Federal)
+195,Massachusetts,Competition,Conduent
+196,Massachusetts,Competition,Deloitte (GPS)
+197,Massachusetts,Competition,Guidehouse
+198,Massachusetts,Competition,IBM (Consulting)
+199,Massachusetts,Competition,KPMG
+200,Massachusetts,Competition,Public Consulting Group (PCG)
+201,Massachusetts,Competition,BCG (BCG Federal / BCG X)
+202,Massachusetts,Competition,McKinsey (QuantumBlack)
+203,Massachusetts,Competition,Nava PBC
+204,Massachusetts,Competition,Publicis Sapient
+205,Massachusetts,Competition,Slalom
+206,Massachusetts,Ecosystem Partner,Amazon Web Services (AWS GovCloud)
+207,Massachusetts,Ecosystem Partner,Anthropic (Claude for Government)
+208,Massachusetts,Ecosystem Partner,"OpenAI (ChatGPT Enterprise/Gov, incl. DoD/CDAO track)"
+209,Massachusetts,Ecosystem Partner,Oracle (OCI Government)
+210,Massachusetts,Ecosystem Partner,Salesforce (Government Cloud)
+211,Massachusetts,Ecosystem Partner,Workday
+212,Massachusetts,Ecosystem Partner,Dell Technologies (Dell Federal)
+213,Massachusetts,Ecosystem Partner,NVIDIA
+214,Massachusetts,Political Institution,Governor of Massachusetts
+215,Massachusetts,Political Institution,Massachusetts Executive Office of Housing and Livable Communities (EOHLC)
+216,Massachusetts,Political Institution,Massachusetts Executive Office of Technology Services and Security (EOTSS)
+217,Massachusetts,Political Institution,Massachusetts Legislature (General Court)
+218,Massachusetts,Political Institution,Massachusetts Office of the Comptroller (CTR)
+343,New York,Agency,New York City Employees' Retirement System
+344,New York,Agency,New York City Office of Technology & Innovation
+345,New York,Agency,New York Institute of Technology
+346,New York,Agency,New York State Department of Health
+347,New York,Agency,New York State Office of Children and Family Services
+348,New York,Agency,City of New York
+349,New York,Agency,NYC FIFA 2026 Host Committee
+350,New York,Competition,CGI (CGI Federal)
+351,New York,Competition,Conduent
+352,New York,Competition,Deloitte (GPS)
+353,New York,Competition,Guidehouse
+354,New York,Competition,IBM (Consulting)
+355,New York,Competition,Public Consulting Group (PCG)
+356,New York,Competition,Unisys
+357,New York,Competition,GDIT (General Dynamics IT)
+358,New York,Competition,ICF International
+359,New York,Competition,NTT DATA
+360,New York,Competition,Optum (UnitedHealth)
+361,New York,Competition,Palantir Technologies
+362,New York,Competition,Peraton
+363,New York,Competition,TCS (Tata Consultancy Services)
+364,New York,Ecosystem Partner,Amazon Web Services (AWS GovCloud)
+365,New York,Ecosystem Partner,Anthropic (Claude for Government)
+366,New York,Ecosystem Partner,Broadcom / VMware
+367,New York,Ecosystem Partner,Databricks
+368,New York,Ecosystem Partner,"Google (Google Public Sector, incl. Gemini for Government)"
+369,New York,Ecosystem Partner,Microsoft (Azure Government)
+370,New York,Ecosystem Partner,"OpenAI (ChatGPT Enterprise/Gov, incl. DoD/CDAO track)"
+371,New York,Ecosystem Partner,Oracle (OCI Government)
+372,New York,Ecosystem Partner,Salesforce (Government Cloud)
+373,New York,Ecosystem Partner,Snowflake
+374,New York,Ecosystem Partner,Workday
+375,New York,Ecosystem Partner,Palantir (Foundry / AIP / Gotham)
+376,New York,Ecosystem Partner,Red Hat (OpenShift)
+377,New York,Political Institution,Governor of New York
+378,New York,Political Institution,New York City Mayor's Office / City Hall
+379,New York,Political Institution,New York City Office of Technology and Innovation (OTI)
+380,New York,Political Institution,New York State Department of Health
+381,New York,Political Institution,New York State Legislature
+382,New York,Political Institution,New York State Office of Children and Family Services (OCFS)
+383,North Carolina,Agency,North Carolina Department of Health and Human Services
+384,North Carolina,Agency,North Carolina Division of Public Health
+385,North Carolina,Agency,North Carolina Department of Administration
+386,North Carolina,Ecosystem Partner,Oracle (OCI Government)
+387,North Carolina,Ecosystem Partner,SAP (SAP NS2)
+388,North Carolina,Ecosystem Partner,Salesforce (Government Cloud)
+389,North Carolina,Ecosystem Partner,Workday
+390,North Carolina,Political Institution,Governor of North Carolina
+391,North Carolina,Political Institution,North Carolina Department of Health and Human Services (DHHS)
+392,North Carolina,Political Institution,North Carolina Department of Information Technology (NCDIT)
+393,North Carolina,Political Institution,North Carolina General Assembly
+394,Ohio,Agency,City of Cleveland
+395,Ohio,Agency,JobsOhio
+396,Ohio,Agency,Ohio Department of Administrative Services
+397,Ohio,Agency,Ohio Department of Administrative Services
+398,Ohio,Agency,Ohio Department of Job & Family Services
+399,Ohio,Agency,Ohio Department of Medicaid
+400,Ohio,Agency,Ohio Department of Commerce
+401,Ohio,Agency,Ohio University
+402,Ohio,Competition,Deloitte (GPS)
+403,Ohio,Competition,IBM (Consulting)
+404,Ohio,Ecosystem Partner,Amazon Web Services (AWS GovCloud)
+405,Ohio,Ecosystem Partner,Microsoft (Azure Government)
+406,Ohio,Ecosystem Partner,Oracle (OCI Government)
+407,Ohio,Ecosystem Partner,Salesforce (Government Cloud)
+408,Ohio,Ecosystem Partner,ServiceNow
+409,Ohio,Ecosystem Partner,Snowflake
+410,Ohio,Ecosystem Partner,Workday
+411,Ohio,Ecosystem Partner,Adobe
+412,Ohio,Political Institution,Governor of Ohio
+413,Ohio,Political Institution,JobsOhio
+414,Ohio,Political Institution,Ohio Department of Administrative Services (DAS)
+415,Ohio,Political Institution,Ohio Department of Job and Family Services (ODJFS)
+416,Ohio,Political Institution,Ohio Department of Medicaid
+417,Ohio,Political Institution,Ohio General Assembly
+440,Pennsylvania,Agency,City of Pittsburgh
+441,Pennsylvania,Agency,Department of General Services
+442,Pennsylvania,Agency,Pennsylvania Office of Administration
+443,Pennsylvania,Agency,University of Pittsburgh
+444,Pennsylvania,Political Institution,City of Pittsburgh
+445,Pennsylvania,Political Institution,Governor of Pennsylvania
+446,Pennsylvania,Political Institution,Pennsylvania General Assembly
+447,Pennsylvania,Political Institution,Pennsylvania Office of Administration (OA)
+448,Pennsylvania,Political Institution,"Pennsylvania Office of Administration, Office for Information Technology (OA/OIT)"
+496,Texas,Agency,Bexar County
+497,Texas,Agency,Texas Department of Family & Protective Services
+498,Texas,Agency,Texas Department of Transportation
+499,Texas,Agency,Texas Health and Human Services Commission
+500,Texas,Agency,Southwest Research Institute
+501,Texas,Competition,Deloitte (GPS)
+502,Texas,Ecosystem Partner,Amazon Web Services (AWS GovCloud)
+503,Texas,Ecosystem Partner,Anthropic (Claude for Government)
+504,Texas,Ecosystem Partner,"Google (Google Public Sector, incl. Gemini for Government)"
+505,Texas,Ecosystem Partner,Microsoft (Azure Government)
+506,Texas,Ecosystem Partner,Oracle (OCI Government)
+507,Texas,Ecosystem Partner,SAP (SAP NS2)
+508,Texas,Ecosystem Partner,Salesforce (Government Cloud)
+509,Texas,Ecosystem Partner,ServiceNow
+510,Texas,Ecosystem Partner,Workday
+511,Texas,Ecosystem Partner,Appian
+512,Texas,Political Institution,"Bexar County, Texas"
+513,Texas,Political Institution,Governor of Texas
+514,Texas,Political Institution,Texas Department of Family and Protective Services (DFPS)
+515,Texas,Political Institution,Texas Health and Human Services Commission (HHSC)
+516,Texas,Political Institution,Texas Legislature
