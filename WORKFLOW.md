@@ -1,7 +1,7 @@
 # Daily US State Entity Watchtower workflow
 
 ## Purpose
-At 8:00 AM America/New_York each day, produce a concise, evidence-based briefing covering news published during the immediately preceding 24 hours for every row in `entities.json`. Publish the result to `rahulaccen/us-state-entity-watchtower` on branch `main` as `data/news.json`.
+At 8:00 AM America/New_York each day, produce a concise, evidence-based briefing covering news published during the immediately preceding 24 hours for every row in `entities.json`. Publish the same result to `rahulaccen/us-state-entity-watchtower` on branch `main` as both `data/news.json` (latest) and `data/archive/YYYY-MM-DD.json` (dated archive, using the America/New_York date of `window.end`).
 
 ## Inputs and canonical identity
 - Canonical entity file: `/tasklet/agent/home/state-entity-news/entities.json`.
@@ -62,5 +62,5 @@ Write valid UTF-8 JSON with this structure:
 ## Validation and publication
 1. Parse the finished JSON before publishing. Confirm every item has all required fields, a unique canonical URL/event, an allowed sentiment, a relevance score from 60–100, an in-window date, and an exact entity/category/state combination from the canonical file.
 2. Save the same JSON locally to `/tasklet/agent/home/state-entity-news/news.json` so the latest successful result persists.
-3. Push only `data/news.json` to `rahulaccen/us-state-entity-watchtower`, branch `main`, with commit message `Daily briefing: YYYY-MM-DD`.
+3. Push the identical validated JSON to both `data/news.json` and `data/archive/YYYY-MM-DD.json` in `rahulaccen/us-state-entity-watchtower`, branch `main`, with commit message `Daily briefing: YYYY-MM-DD`. Use the America/New_York calendar date of `window.end` for the dated filename. A rerun on the same date may replace that date's archive file.
 4. If research or publication fails persistently, do not overwrite the last successful briefing with partial or invalid data. Report the blocker to Rahul once with the action needed.
