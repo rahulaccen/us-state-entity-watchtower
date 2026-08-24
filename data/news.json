@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-23T12:06:53Z",
+  "generatedAt": "2026-08-24T12:17:25.443Z",
   "timezone": "America/New_York",
-  "latestDate": "2026-08-23",
+  "latestDate": "2026-08-24",
   "dates": {
     "2026-08-20": {
       "generatedAt": "2026-08-20T12:01:00Z",
@@ -542,6 +542,64 @@
         "duplicatesRemoved": 0,
         "unsupportedItemsExcluded": 5,
         "notes": "Screened 108 unique entity names across all 156 canonical rows in bounded parallel batches; candidate-search results are retained locally. Strict source and timestamp verification retained only directly material, in-window items. Search results contained substantial undated, job, social, tangential, and out-of-window noise."
+      }
+    },
+    "2026-08-24": {
+      "generatedAt": "2026-08-24T12:17:25.443Z",
+      "window": {
+        "timezone": "America/New_York",
+        "hours": 24,
+        "start": "2026-08-23T08:17:25.443-04:00",
+        "end": "2026-08-24T08:17:25.443-04:00"
+      },
+      "items": [
+        {
+          "headline": "JEA issues boil water advisory for customers in Southwest Nocatee",
+          "summary": "JEA crews were repairing a 12-inch water-main break in southwest Nocatee that caused lower-than-normal pressure for some customers. JEA issued a precautionary boil-water advisory and told affected customers to boil water before drinking, cooking or making ice until the advisory is lifted.",
+          "entityName": "JEA",
+          "category": "Agency",
+          "state": "Florida",
+          "publicationDate": "2026-08-24T00:08:00Z",
+          "source": "News4JAX",
+          "sourceUrl": "https://www.news4jax.com/news/local/2026/08/24/jea-issues-boil-water-advisory-for-customers-in-southwest-nocatee/",
+          "topic": "Operations",
+          "sentiment": "Negative",
+          "location": "Nocatee, Florida",
+          "relevanceScore": 94
+        },
+        {
+          "headline": "Could a diversion center reduce deaths in the Bexar County jail?",
+          "summary": "Texas Public Radio reported that 96 people have died in the Bexar County jail since 2020 and that San Antonio and Bexar County officials are exploring a diversion and recovery center for some people accused of low-level offenses linked to behavioral-health, developmental or substance-use needs. The proposal includes a feasibility study examining capacity, operating procedures, locations and costs.",
+          "entityName": "Bexar County",
+          "category": "Agency",
+          "state": "Texas",
+          "publicationDate": "2026-08-23T23:08:00Z",
+          "source": "Texas Public Radio",
+          "sourceUrl": "https://www.tpr.org/podcast/the-source/2026-08-23/could-a-diversion-center-reduce-deaths-in-the-bexar-county-jail",
+          "topic": "Public Service",
+          "sentiment": "Mixed",
+          "location": "Bexar County, Texas",
+          "relevanceScore": 81
+        },
+        {
+          "headline": "Can't afford a hospital bill in New York? You may qualify for free or discounted care",
+          "summary": "A USA Today Network explainer said New York hospitals must offer financial assistance to eligible patients and identified the standard financial-assistance application created by the New York State Department of Health. It also described protections and eligibility thresholds under New York's Hospital Financial Aid Law.",
+          "entityName": "New York State Department of Health",
+          "category": "Agency",
+          "state": "New York",
+          "publicationDate": "2026-08-24T08:31:00Z",
+          "source": "The Journal News / USA Today Network",
+          "sourceUrl": "https://www.lohud.com/story/news/2026/08/24/hospital-bill-financial-assistance-free-discounted-care/91437417007/",
+          "topic": "Public Service",
+          "sentiment": "Positive",
+          "location": "New York State",
+          "relevanceScore": 63
+        }
+      ],
+      "quality": {
+        "duplicatesRemoved": 2,
+        "unsupportedItemsExcluded": 724,
+        "notes": "Screened 729 candidate results for 108 unique canonical names across all 156 workbook rows in bounded parallel batches. Retained only three sources that were opened, directly material to a canonical entity, and published inside the exact rolling window; excluded stale, undated, generic, social-only, job, tangential, inaccessible or insufficiently state-specific results. Two duplicate/syndicated candidate links were consolidated."
       }
     }
   }
