@@ -1079,7 +1079,7 @@
       "quality": {
         "duplicatesRemoved": 3,
         "unsupportedItemsExcluded": 31,
-        "notes": "Screened canonical-entity, supplemental, broad and targeted search leads; verified retained pages directly where available. Excluded out-of-window, undated, snippet-only, inaccessible/404, generic marketing/job/event pages, broad commentary, and non-canonical-entity stories. Consolidated repeated reports of the same JEA, Pittsburgh and New York 287(g) events; date-only publisher pages are retained at YYYY-MM-DD precision."
+        "notes": "Screened all canonical rows using exact-name, state-qualified, supplemental, broad and targeted searches (2,043 raw result records; 1,749 unique candidate URLs). Retained 18 items after direct page verification and in-window/materiality review. Excluded 31 reviewed candidates for out-of-window, undated, snippet-only, inaccessible/404, generic marketing/job/event, broad commentary, or non-canonical relevance; remaining raw leads were search noise or duplicate/overlapping results. Consolidated 3 verified event duplicates (JEA recognition, Pittsburgh stormwater project, and New York 287(g) coverage). Date-only publisher pages are recorded as YYYY-MM-DD; exact rolling window is 2026-08-25T12:00:00Z to 2026-08-26T12:00:00Z."
       }
     }
   }
