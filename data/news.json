@@ -950,20 +950,6 @@
           "relevanceScore": 87
         },
         {
-          "headline": "Governor DeSantis announces first rollout of CORE emergency-management education initiative",
-          "summary": "Governor Ron DeSantis announced the first rollout of the Coalition for Operational Readiness in Education at Florida International University. The statewide initiative is a cross-agency partnership intended to expand hands-on emergency-management training and workforce pathways.",
-          "entityName": "Governor of Florida",
-          "category": "Political Institution",
-          "state": "Florida",
-          "publicationDate": "2026-08-26",
-          "source": "Office of the Governor of Florida",
-          "sourceUrl": "https://www.flgov.com/eog/news/press/2026/governor-desantis-announces-first-rollout-coalition-operational-readiness-education",
-          "topic": "Partnership",
-          "sentiment": "Positive",
-          "location": "Miami, Florida",
-          "relevanceScore": 86
-        },
-        {
           "headline": "Legal challenges continue over New York Climate Change Superfund Act",
           "summary": "A Spectrum News report said a federal judge questioned whether New York’s Climate Change Superfund Act is preempted by federal law. The report notes Governor Kathy Hochul signed the act in 2024 and that legal challenges have kept it from taking effect.",
           "entityName": "Governor of New York",
@@ -989,6 +975,20 @@
           "topic": "Litigation",
           "sentiment": "Mixed",
           "location": "New York",
+          "relevanceScore": 86
+        },
+        {
+          "headline": "Governor DeSantis announces first rollout of CORE emergency-management education initiative",
+          "summary": "Governor Ron DeSantis announced the first rollout of the Coalition for Operational Readiness in Education at Florida International University. The statewide initiative is a cross-agency partnership intended to expand hands-on emergency-management training and workforce pathways.",
+          "entityName": "Governor of Florida",
+          "category": "Political Institution",
+          "state": "Florida",
+          "publicationDate": "2026-08-26",
+          "source": "Office of the Governor of Florida",
+          "sourceUrl": "https://www.flgov.com/eog/news/press/2026/governor-desantis-announces-first-rollout-coalition-operational-readiness-education",
+          "topic": "Partnership",
+          "sentiment": "Positive",
+          "location": "Miami, Florida",
           "relevanceScore": 86
         },
         {
@@ -1034,48 +1034,6 @@
           "relevanceScore": 83
         },
         {
-          "headline": "Ohio to receive millions from historic Meta settlement",
-          "summary": "Ohio Attorney General Andy Wilson said the state will receive $319 million over a decade from a multistate settlement with Meta and that his office will work with the Ohio General Assembly on how the funds are used.",
-          "entityName": "Ohio General Assembly",
-          "category": "Political Institution",
-          "state": "Ohio",
-          "publicationDate": "2026-08-26",
-          "source": "Cleveland 19 News",
-          "sourceUrl": "https://www.cleveland19.com/2026/08/26/ohio-get-millions-historic-metafacebook-settlement/",
-          "topic": "Litigation",
-          "sentiment": "Positive",
-          "location": "Ohio",
-          "relevanceScore": 82
-        },
-        {
-          "headline": "Luxorion plans $19 million northwest Ohio expansion with 60 new jobs",
-          "summary": "Luxorion Plastics announced a $19 million, 45,000-square-foot facility in Putnam County expected to create 60 jobs; JobsOhio said the project is based in Leipsic.",
-          "entityName": "JobsOhio",
-          "category": "Agency",
-          "state": "Ohio",
-          "publicationDate": "2026-08-26T10:51:00Z",
-          "source": "Spectrum News 1",
-          "sourceUrl": "https://spectrumnews1.com/oh/columbus/news/2026/08/26/company-plans-1-million-expansion-in-northwest-ohio",
-          "topic": "Operations",
-          "sentiment": "Positive",
-          "location": "Putnam County, Ohio",
-          "relevanceScore": 82
-        },
-        {
-          "headline": "Luxorion plans $19 million northwest Ohio expansion with 60 new jobs",
-          "summary": "Luxorion Plastics announced a $19 million, 45,000-square-foot facility in Putnam County expected to create 60 jobs; JobsOhio said the project is based in Leipsic.",
-          "entityName": "JobsOhio",
-          "category": "Political Institution",
-          "state": "Ohio",
-          "publicationDate": "2026-08-26T10:51:00Z",
-          "source": "Spectrum News 1",
-          "sourceUrl": "https://spectrumnews1.com/oh/columbus/news/2026/08/26/company-plans-1-million-expansion-in-northwest-ohio",
-          "topic": "Operations",
-          "sentiment": "Positive",
-          "location": "Putnam County, Ohio",
-          "relevanceScore": 82
-        },
-        {
           "headline": "North Carolina reports 11 new cyclosporiasis cases, bringing total to 940",
           "summary": "The North Carolina Department of Health and Human Services reported 940 statewide cyclosporiasis cases as of August 26, including 11 new cases since its prior update. The report cited the state’s disease dashboard.",
           "entityName": "North Carolina Department of Health and Human Services",
@@ -1102,6 +1060,76 @@
           "sentiment": "Negative",
           "location": "North Carolina",
           "relevanceScore": 82
+        },
+        {
+          "headline": "Luxorion plans $19 million northwest Ohio expansion with 60 new jobs",
+          "summary": "Luxorion Plastics announced a $19 million, 45,000-square-foot facility in Putnam County expected to create 60 jobs; JobsOhio said the project is based in Leipsic.",
+          "entityName": "JobsOhio",
+          "category": "Agency",
+          "state": "Ohio",
+          "publicationDate": "2026-08-26T10:51:00Z",
+          "source": "Spectrum News 1",
+          "sourceUrl": "https://spectrumnews1.com/oh/columbus/news/2026/08/26/company-plans-1-million-expansion-in-northwest-ohio",
+          "topic": "Operations",
+          "sentiment": "Positive",
+          "location": "Putnam County, Ohio",
+          "relevanceScore": 82
+        },
+        {
+          "headline": "Luxorion plans $19 million northwest Ohio expansion with 60 new jobs",
+          "summary": "Luxorion Plastics announced a $19 million, 45,000-square-foot facility in Putnam County expected to create 60 jobs; JobsOhio said the project is based in Leipsic.",
+          "entityName": "JobsOhio",
+          "category": "Political Institution",
+          "state": "Ohio",
+          "publicationDate": "2026-08-26T10:51:00Z",
+          "source": "Spectrum News 1",
+          "sourceUrl": "https://spectrumnews1.com/oh/columbus/news/2026/08/26/company-plans-1-million-expansion-in-northwest-ohio",
+          "topic": "Operations",
+          "sentiment": "Positive",
+          "location": "Putnam County, Ohio",
+          "relevanceScore": 82
+        },
+        {
+          "headline": "Ohio to receive millions from historic Meta settlement",
+          "summary": "Ohio Attorney General Andy Wilson said the state will receive $319 million over a decade from a multistate settlement with Meta and that his office will work with the Ohio General Assembly on how the funds are used.",
+          "entityName": "Ohio General Assembly",
+          "category": "Political Institution",
+          "state": "Ohio",
+          "publicationDate": "2026-08-26",
+          "source": "Cleveland 19 News",
+          "sourceUrl": "https://www.cleveland19.com/2026/08/26/ohio-get-millions-historic-metafacebook-settlement/",
+          "topic": "Litigation",
+          "sentiment": "Positive",
+          "location": "Ohio",
+          "relevanceScore": 82
+        },
+        {
+          "headline": "Metallus commissions furnaces supporting U.S. Army munitions production",
+          "summary": "Metallus and the U.S. Army commissioned new furnaces and an automated sawline at the steelmaker’s Ohio plants. The report says the Army provided $99.75 million and JobsOhio provided $3.5 million for the expansion.",
+          "entityName": "JobsOhio",
+          "category": "Agency",
+          "state": "Ohio",
+          "publicationDate": "2026-08-26T18:59:00Z",
+          "source": "Canton Repository",
+          "sourceUrl": "https://www.cantonrep.com/story/business/2026/08/26/metallus-to-ramp-up-production-of-vital-artillery-steel-at-canton-ohio-plants/91462516007/",
+          "topic": "Contract Award",
+          "sentiment": "Positive",
+          "location": "Canton, Ohio",
+          "relevanceScore": 80
+        },
+        {
+          "headline": "Metallus commissions furnaces supporting U.S. Army munitions production",
+          "summary": "Metallus and the U.S. Army commissioned new furnaces and an automated sawline at the steelmaker’s Ohio plants. The report says the Army provided $99.75 million and JobsOhio provided $3.5 million for the expansion.",
+          "entityName": "JobsOhio",
+          "category": "Political Institution",
+          "state": "Ohio",
+          "publicationDate": "2026-08-26T18:59:00Z",
+          "source": "Canton Repository",
+          "sourceUrl": "https://www.cantonrep.com/story/business/2026/08/26/metallus-to-ramp-up-production-of-vital-artillery-steel-at-canton-ohio-plants/91462516007/",
+          "topic": "Contract Award",
+          "sentiment": "Positive",
+          "location": "Canton, Ohio",
+          "relevanceScore": 80
         },
         {
           "headline": "Governor Healey calls for reversal of changes that would dismantle Head Start",
@@ -1132,32 +1160,18 @@
           "relevanceScore": 80
         },
         {
-          "headline": "Metallus commissions furnaces supporting U.S. Army munitions production",
-          "summary": "Metallus and the U.S. Army commissioned new furnaces and an automated sawline at the steelmaker’s Ohio plants. The report says the Army provided $99.75 million and JobsOhio provided $3.5 million for the expansion.",
-          "entityName": "JobsOhio",
+          "headline": "Maricopa County attorney says teen violence is increasing despite tougher law",
+          "summary": "The Maricopa County Attorney’s Office said teen violence in the county has increased despite the tougher group-attack penalties created by Arizona’s Preston’s Law. County Attorney Rachel Mitchell described the trend as concerning and said the office is monitoring the issue.",
+          "entityName": "Maricopa County",
           "category": "Agency",
-          "state": "Ohio",
-          "publicationDate": "2026-08-26T18:59:00Z",
-          "source": "Canton Repository",
-          "sourceUrl": "https://www.cantonrep.com/story/business/2026/08/26/metallus-to-ramp-up-production-of-vital-artillery-steel-at-canton-ohio-plants/91462516007/",
-          "topic": "Contract Award",
-          "sentiment": "Positive",
-          "location": "Canton, Ohio",
-          "relevanceScore": 80
-        },
-        {
-          "headline": "Metallus commissions furnaces supporting U.S. Army munitions production",
-          "summary": "Metallus and the U.S. Army commissioned new furnaces and an automated sawline at the steelmaker’s Ohio plants. The report says the Army provided $99.75 million and JobsOhio provided $3.5 million for the expansion.",
-          "entityName": "JobsOhio",
-          "category": "Political Institution",
-          "state": "Ohio",
-          "publicationDate": "2026-08-26T18:59:00Z",
-          "source": "Canton Repository",
-          "sourceUrl": "https://www.cantonrep.com/story/business/2026/08/26/metallus-to-ramp-up-production-of-vital-artillery-steel-at-canton-ohio-plants/91462516007/",
-          "topic": "Contract Award",
-          "sentiment": "Positive",
-          "location": "Canton, Ohio",
-          "relevanceScore": 80
+          "state": "Arizona",
+          "publicationDate": "2026-08-26",
+          "source": "AZFamily",
+          "sourceUrl": "https://www.azfamily.com/2026/08/26/very-concerning-maricopa-county-attorney-says-teen-violence-is-increasing/",
+          "topic": "Public Service",
+          "sentiment": "Negative",
+          "location": "Maricopa County, Arizona",
+          "relevanceScore": 78
         },
         {
           "headline": "Nvidia quarterly results again exceed Wall Street expectations as AI-chip revenue surges",
@@ -1261,7 +1275,7 @@
       "quality": {
         "duplicatesRemoved": 9,
         "unsupportedItemsExcluded": 31,
-        "notes": "Screened all 156 canonical rows through 108 unique-name searches plus state-focused, broad and targeted searches. Retained 31 canonical-row items representing 19 underlying verified events after direct page review. Excluded 31 reviewed candidates as out-of-window, undated, snippet-only, inaccessible/404, generic marketing/job/event, broad commentary, or non-canonical; consolidated 9 duplicate or syndicated references. Date-only publisher pages are recorded as YYYY-MM-DD."
+        "notes": "Screened all 156 canonical rows through 108 unique-name searches plus state-focused, broad and targeted searches. Retained 32 canonical-row items representing 20 underlying verified events after direct page review. Excluded 31 reviewed candidates as out-of-window, undated, snippet-only, inaccessible/404, generic marketing/job/event, broad commentary, or non-canonical; consolidated 9 duplicate or syndicated references. Date-only publisher pages are recorded as YYYY-MM-DD."
       }
     }
   }
