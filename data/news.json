@@ -1275,7 +1275,7 @@
       "quality": {
         "duplicatesRemoved": 9,
         "unsupportedItemsExcluded": 31,
-        "notes": "Screened all 156 canonical rows through 108 unique-name searches plus state-focused, broad and targeted searches. Retained 32 canonical-row items representing 20 underlying verified events after direct page review. Excluded 31 reviewed candidates as out-of-window, undated, snippet-only, inaccessible/404, generic marketing/job/event, broad commentary, or non-canonical; consolidated 9 duplicate or syndicated references. Date-only publisher pages are recorded as YYYY-MM-DD."
+        "notes": "Screened all 156 canonical rows through 108 unique-name searches plus state-focused, broad and targeted searches. Retained 32 canonical-row items representing 21 underlying verified events after direct page review. Excluded 31 reviewed candidates as out-of-window, undated, snippet-only, inaccessible/404, generic marketing/job/event, broad commentary, or non-canonical; consolidated 9 duplicate or syndicated references. Date-only publisher pages are recorded as YYYY-MM-DD."
       }
     }
   }
