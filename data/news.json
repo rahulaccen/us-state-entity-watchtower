@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-27T12:00:00Z",
+  "generatedAt": "2026-09-01T12:00:00Z",
   "timezone": "America/New_York",
-  "latestDate": "2026-08-27",
+  "latestDate": "2026-09-01",
   "dates": {
     "2026-08-20": {
       "generatedAt": "2026-08-20T12:01:00Z",
@@ -1544,6 +1544,78 @@
         "duplicatesRemoved": 9,
         "unsupportedItemsExcluded": 31,
         "notes": "Screened all 156 canonical rows through 108 unique-name searches plus state-focused, broad and targeted searches. Retained 32 canonical-row items representing 21 underlying verified events after direct page review. Excluded 31 reviewed candidates as out-of-window, undated, snippet-only, inaccessible/404, generic marketing/job/event, broad commentary, or non-canonical; consolidated 9 duplicate or syndicated references. Date-only publisher pages are recorded as YYYY-MM-DD."
+      }
+    },
+    "2026-09-01": {
+      "generatedAt": "2026-09-01T12:00:00Z",
+      "window": {
+        "timezone": "America/New_York",
+        "hours": 24,
+        "start": "2026-08-31T12:00:00Z",
+        "end": "2026-09-01T12:00:00Z"
+      },
+      "items": [
+        {
+          "headline": "JobsOhio launches Technician Path incentive to help employers build skilled workforce",
+          "summary": "JobsOhio announced the JobsOhio Technician Path incentive program, which provides eligible Ohio employers up to $10,000 per employee who completes an approved training pathway. The statewide program targets technician roles in advanced manufacturing, life sciences, and advanced aerospace and defense, with employers required to provide a 1:1 match at later milestones.",
+          "entityName": "JobsOhio",
+          "category": "Agency",
+          "state": "Ohio",
+          "publicationDate": "2026-08-31",
+          "source": "JobsOhio",
+          "sourceUrl": "https://www.jobsohio.com/newsroom/news-press/new-jobsohio-technician-path-helps-ohio-employers-build-skilled-workforce",
+          "topic": "Workforce",
+          "sentiment": "Positive",
+          "location": "Ohio",
+          "relevanceScore": 93
+        },
+        {
+          "headline": "Ohio University launches peer-to-peer IRB mentoring program for graduate researchers",
+          "summary": "Ohio University's Office of Research Compliance launched a peer-mentoring program to help graduate students navigate Institutional Review Board submissions for human-subjects research. The program includes pre-review of submissions, individual and group consultations, and workshops intended to improve completeness and reduce approval delays.",
+          "entityName": "Ohio University",
+          "category": "Agency",
+          "state": "Ohio",
+          "publicationDate": "2026-08-31",
+          "source": "Ohio University",
+          "sourceUrl": "https://www.ohio.edu/news/2026/08/office-research-compliance-launches-peer-peer-irb-mentoring-program-support-graduate",
+          "topic": "Operations",
+          "sentiment": "Positive",
+          "location": "Athens, Ohio",
+          "relevanceScore": 88
+        },
+        {
+          "headline": "Ohio University and Athens community plan 250th-anniversary Re-Declaration performance",
+          "summary": "Ohio University and Athens County community organizations will present “The Re-Declaration of Independence” on Sept. 10 as part of Ohio University’s fall Concerts on the Green series. The free performance will open the Central Region Humanities Center Biennial Conference and feature music, dance, puppets, singing, and a collective reading of the Declaration.",
+          "entityName": "Ohio University",
+          "category": "Agency",
+          "state": "Ohio",
+          "publicationDate": "2026-08-31",
+          "source": "Ohio University",
+          "sourceUrl": "https://www.ohio.edu/news/2026/08/ohio-university-athens-community-mark-250-years-united-states-re-declaration",
+          "topic": "Public Service",
+          "sentiment": "Positive",
+          "location": "Athens, Ohio",
+          "relevanceScore": 80
+        },
+        {
+          "headline": "Ohio Athletics announces Kermit Blosser Hall of Fame class of 2026",
+          "summary": "Ohio Athletics announced five inductees for the 2026 Kermit Blosser Ohio Athletics Hall of Fame class: Torrie Albini, Don Caldwell, Douglas Grebe, Germane Lindsey, and Joshua Sorge. The university athletics release identified the inductees’ sports and highlighted their records and honors.",
+          "entityName": "Ohio University",
+          "category": "Agency",
+          "state": "Ohio",
+          "publicationDate": "2026-08-31T16:00:00Z",
+          "source": "Ohio Athletics",
+          "sourceUrl": "https://ohiobobcats.com/news/2026/8/31/general-ohio-athletics-announces-kermit-blosser-hall-of-fame-class-of-2026",
+          "topic": "Leadership",
+          "sentiment": "Positive",
+          "location": "Athens, Ohio",
+          "relevanceScore": 72
+        }
+      ],
+      "quality": {
+        "duplicatesRemoved": 3,
+        "unsupportedItemsExcluded": 0,
+        "notes": "Screened all 156 canonical workbook rows (108 unique underlying names) through bounded exact-name, state-qualified, supplemental, and targeted searches. Four directly relevant, opened, source-verified items published on August 31 were retained; duplicate/syndicated candidate references were consolidated. Date-only official publisher pages are recorded as YYYY-MM-DD because they expose a publication date but not a time. Undated, snippet-only, stale, generic, job, social-only, tangential, inaccessible, and insufficiently state-specific candidates were excluded."
       }
     }
   }
