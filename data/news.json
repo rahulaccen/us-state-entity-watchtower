@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-02T12:00:00Z",
+  "generatedAt": "2026-09-03T12:01:00Z",
   "timezone": "America/New_York",
-  "latestDate": "2026-09-02",
+  "latestDate": "2026-09-03",
   "dates": {
     "2026-08-20": {
       "generatedAt": "2026-08-20T12:01:00Z",
@@ -1982,6 +1982,50 @@
         "duplicatesRemoved": 3,
         "unsupportedItemsExcluded": 11,
         "notes": "Screened all 156 canonical workbook rows through 108 unique-name searches plus date-qualified and supplemental searches. Sixteen distinct in-window events were retained and mapped to 25 applicable canonical rows; three same-event alternative references were consolidated. Eleven reviewed short-list records were excluded for undated or out-of-window publication, unsupported or inaccessible evidence, insufficiently direct relevance, or tangential coverage. Date-only source pages expose a publication date but not a time and are recorded as YYYY-MM-DD; explicit timestamps were normalized to UTC. The TxDOT report is retained from a Sept. 1 local-news publication, while the official TxDOT page for the same plan is dated Aug. 26 and was not used as the in-window publication record."
+      }
+    },
+    "2026-09-03": {
+      "generatedAt": "2026-09-03T12:01:00Z",
+      "window": {
+        "timezone": "America/New_York",
+        "hours": 24,
+        "start": "2026-09-02T08:01:00-04:00",
+        "end": "2026-09-03T08:01:00-04:00"
+      },
+      "items": [
+        {
+          "headline": "North Carolina General Assembly House and Senate adjourn for September recess",
+          "summary": "The General Assembly’s official account reported that the Senate adjourned at 10:01 a.m. and the House at 10:32 a.m. on Sept. 2, with both chambers set to reconvene Sept. 28.",
+          "entityName": "North Carolina General Assembly",
+          "category": "Political Institution",
+          "state": "North Carolina",
+          "publicationDate": "2026-09-02T14:34:10Z",
+          "source": "North Carolina General Assembly (@NCLeg)",
+          "sourceUrl": "https://x.com/NCLeg",
+          "topic": "Operations",
+          "sentiment": "Neutral",
+          "location": "Raleigh, North Carolina",
+          "relevanceScore": 90
+        },
+        {
+          "headline": "COVID-19 cases rise in New York while activity remains very low",
+          "summary": "The Journal News reported that New York positive tests increased to 383 on Aug. 28 from 70 on July 1, citing New York State Department of Health data. The article said New York remained in the CDC’s very-low activity category.",
+          "entityName": "New York State Department of Health",
+          "category": "Agency",
+          "state": "New York",
+          "publicationDate": "2026-09-02T16:02:00-04:00",
+          "source": "The Journal News (lohud.com)",
+          "sourceUrl": "https://www.lohud.com/story/news/2026/09/02/covid-19-cases-rising-new-york-how-concerned-should-you-be/91583839007/",
+          "topic": "Public Service",
+          "sentiment": "Negative",
+          "location": "New York State",
+          "relevanceScore": 84
+        }
+      ],
+      "quality": {
+        "duplicatesRemoved": 11,
+        "unsupportedItemsExcluded": 304,
+        "notes": "Screened all 156 canonical workbook rows (108 unique names) using bounded searches and opened-source verification. From 317 substantive candidate records, 11 repeated URL records were consolidated; 304 unique candidates were excluded as undated or out-of-window, unsupported, generic, job, social-only, tangential, inaccessible, or insufficiently state-specific. Retained two directly material sources with explicit in-window publication times; the two chamber posts documenting the same General Assembly adjournment were consolidated."
       }
     }
   }
