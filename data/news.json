@@ -2983,7 +2983,7 @@
         }
       ],
       "quality": {
-        "duplicatesRemoved": 0,
+        "duplicatesRemoved": 6,
         "unsupportedItemsExcluded": 623,
         "notes": "Searched all 156 canonical workbook rows (108 unique names) in bounded parallel exact-name/state-qualified searches, then ran targeted state and agency searches. Six hundred twenty-six persisted exact-name result leads (620 unique URLs) plus supplemental leads were screened; two directly relevant underlying events were source-verified in-window and mapped to three canonical rows. The JEA report is timestamped September 6 at 5:50 p.m. EDT; the AHCCCS report is dated September 7 with no publication clock time, and was treated as in-window based on the fresh daily search result before the 8:01 a.m. EDT cutoff. Generic, job, social-only, stale/out-of-window, undated, tangential, inaccessible and unsupported candidates were excluded."
       }
