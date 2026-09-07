@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-06T12:00:00Z",
+  "generatedAt": "2026-09-07T12:01:00Z",
   "timezone": "America/New_York",
-  "latestDate": "2026-09-06",
+  "latestDate": "2026-09-07",
   "dates": {
     "2026-08-20": {
       "generatedAt": "2026-08-20T12:01:00Z",
@@ -2928,6 +2928,64 @@
         "duplicatesRemoved": 10,
         "unsupportedItemsExcluded": 1700,
         "notes": "108 unique canonical names (156 rows) were searched in two bounded batches (1,716 candidate result leads). Six unique in-window events were retained and mapped to 14 canonical rows. Syndicated copies and URL variants were consolidated; canonical-row fan-out is not counted as duplication. Generic pages, jobs, social posts, stale/out-of-window reports, unsupported snippets, and non-material mentions were excluded. The Texas HHS release states September 5 but exposes no publication clock time; it was retained because the dated official release is within the daily window."
+      }
+    },
+    "2026-09-07": {
+      "generatedAt": "2026-09-07T12:01:00Z",
+      "window": {
+        "timezone": "America/New_York",
+        "hours": 24,
+        "start": "2026-09-06T08:01:00-04:00",
+        "end": "2026-09-07T08:01:00-04:00"
+      },
+      "items": [
+        {
+          "headline": "Sen. Finchem questions AHCCCS request to pause 30 administrative appeals",
+          "summary": "Arizona State Sen. Mark Finchem questioned AHCCCS's request to pause 30 pending administrative appeals involving a healthcare provider while the agency pursues a related lawsuit. The administrative-law judge had not ruled on the request when the report was published.",
+          "entityName": "Arizona Health Care Cost Containment System",
+          "category": "Agency",
+          "state": "Arizona",
+          "publicationDate": "2026-09-07",
+          "source": "AZ Free News",
+          "sourceUrl": "https://azfreenews.com/2026/09/sen-finchem-questions-ahcccs-request-to-pause-30-administrative-appeals/",
+          "topic": "Litigation",
+          "sentiment": "Negative",
+          "location": "Phoenix, Arizona",
+          "relevanceScore": 86
+        },
+        {
+          "headline": "JEA warns customers to expect higher electric bills after hot August",
+          "summary": "JEA warned Northeast Florida customers that extreme August heat drove higher electricity usage and could lead to costly bills. The utility also highlighted payment extensions, installment arrangements, assistance referrals and its MyBudget levelized-billing program.",
+          "entityName": "JEA",
+          "category": "Agency",
+          "state": "Florida",
+          "publicationDate": "2026-09-06T21:50:00Z",
+          "source": "Action News Jax",
+          "sourceUrl": "https://www.actionnewsjax.com/news/local/warning-august-was-hot-one-so-expect-higher-electric-bills-this-month-jea/EAB44N7GHFBGTGT7GHC7L6V53Q/",
+          "topic": "Operations",
+          "sentiment": "Mixed",
+          "location": "Jacksonville, Florida",
+          "relevanceScore": 84
+        },
+        {
+          "headline": "JEA warns customers to expect higher electric bills after hot August",
+          "summary": "JEA warned Northeast Florida customers that extreme August heat drove higher electricity usage and could lead to costly bills. The utility also highlighted payment extensions, installment arrangements, assistance referrals and its MyBudget levelized-billing program.",
+          "entityName": "JEA (Jacksonville Electric Authority)",
+          "category": "Political Institution",
+          "state": "Florida",
+          "publicationDate": "2026-09-06T21:50:00Z",
+          "source": "Action News Jax",
+          "sourceUrl": "https://www.actionnewsjax.com/news/local/warning-august-was-hot-one-so-expect-higher-electric-bills-this-month-jea/EAB44N7GHFBGTGT7GHC7L6V53Q/",
+          "topic": "Operations",
+          "sentiment": "Mixed",
+          "location": "Jacksonville, Florida",
+          "relevanceScore": 84
+        }
+      ],
+      "quality": {
+        "duplicatesRemoved": 0,
+        "unsupportedItemsExcluded": 623,
+        "notes": "Searched all 156 canonical workbook rows (108 unique names) in bounded parallel exact-name/state-qualified searches, then ran targeted state and agency searches. Six hundred twenty-six persisted exact-name result leads (620 unique URLs) plus supplemental leads were screened; two directly relevant underlying events were source-verified in-window and mapped to three canonical rows. The JEA report is timestamped September 6 at 5:50 p.m. EDT; the AHCCCS report is dated September 7 with no publication clock time, and was treated as in-window based on the fresh daily search result before the 8:01 a.m. EDT cutoff. Generic, job, social-only, stale/out-of-window, undated, tangential, inaccessible and unsupported candidates were excluded."
       }
     }
   }
