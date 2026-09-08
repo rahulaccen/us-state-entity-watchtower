@@ -3042,8 +3042,8 @@
       ],
       "quality": {
         "duplicatesRemoved": 24,
-        "unsupportedItemsExcluded": 1182,
-        "notes": "Searched all 156 canonical workbook rows (108 unique names) in bounded, conservative exact-name/state-qualified batches, then ran supplemental state-level scans. The captured exact-name searches returned 1,045 leads (1,021 unique URLs), and seven supplemental state scans returned 140 additional leads; every retained source was opened and publication timing/direct relevance were verified. Three in-window events were retained and mapped to three canonical rows: two distinct Governor of New York releases were retained while duplicate coverage of the same parade event was consolidated; the NTT DATA Business Wire release was retained. Stale, out-of-window, undated, generic, social-only, job, tangential and unsupported leads were excluded."
+        "unsupportedItemsExcluded": 1202,
+        "notes": "Searched all 156 canonical workbook rows (108 unique names) in bounded, conservative exact-name/state-qualified batches, then ran eight supplemental state-level scans. The captured exact-name searches returned 1,045 leads (1,021 unique URLs), and the eight supplemental scans returned 160 additional leads: 1,205 captured leads in all, with 24 duplicate URL candidates removed. Every retained source was opened and publication timing/direct relevance were verified. Three in-window events were retained and mapped to three canonical rows: two distinct Governor of New York releases were retained while duplicate coverage of the same parade event was consolidated; the NTT DATA Business Wire release was retained. Stale, out-of-window, undated, generic, social-only, job, tangential and unsupported leads were excluded."
       }
     }
   }
