@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-07T12:01:00Z",
+  "generatedAt": "2026-09-08T12:00:00Z",
   "timezone": "America/New_York",
-  "latestDate": "2026-09-07",
+  "latestDate": "2026-09-08",
   "dates": {
     "2026-08-20": {
       "generatedAt": "2026-08-20T12:01:00Z",
@@ -2986,6 +2986,64 @@
         "duplicatesRemoved": 6,
         "unsupportedItemsExcluded": 623,
         "notes": "Searched all 156 canonical workbook rows (108 unique names) in bounded parallel exact-name/state-qualified searches, then ran targeted state and agency searches. Six hundred twenty-six persisted exact-name result leads (620 unique URLs) plus supplemental leads were screened; two directly relevant underlying events were source-verified in-window and mapped to three canonical rows. The JEA report is timestamped September 6 at 5:50 p.m. EDT; the AHCCCS report is dated September 7 with no publication clock time, and was treated as in-window based on the fresh daily search result before the 8:01 a.m. EDT cutoff. Generic, job, social-only, stale/out-of-window, undated, tangential, inaccessible and unsupported candidates were excluded."
+      }
+    },
+    "2026-09-08": {
+      "generatedAt": "2026-09-08T12:00:00Z",
+      "window": {
+        "timezone": "America/New_York",
+        "hours": 24,
+        "start": "2026-09-07T08:00:00-04:00",
+        "end": "2026-09-08T08:00:00-04:00"
+      },
+      "items": [
+        {
+          "headline": "Governor Hochul highlights worker protections, benefits and workforce investments on Labor Day",
+          "summary": "Governor Kathy Hochul highlighted strengthened worker protections, enhanced Tier 6 retirement benefits, workers’ compensation changes and expanded free community college for adult learners. The release also cited anti-wage-theft enforcement, workforce training and public-service hiring initiatives.",
+          "entityName": "Governor of New York",
+          "category": "Political Institution",
+          "state": "New York",
+          "publicationDate": "2026-09-07T08:36:00-04:00",
+          "source": "Office of the Governor of New York",
+          "sourceUrl": "https://www.governor.ny.gov/news/labor-day-governor-hochul-highlights-labor-and-workforce-accomplishments-make-new-york-more-0",
+          "topic": "Policy",
+          "sentiment": "Positive",
+          "location": "Albany, New York",
+          "relevanceScore": 88
+        },
+        {
+          "headline": "NTT DATA deploys AI-powered platform to improve global infrastructure operations",
+          "summary": "NTT DATA said it is expanding deployment of an AI-powered infrastructure-operations platform with real-time monitoring, predictive analytics and automation for global enterprise environments. The company said the deployment includes support for Daimler Truck and is intended to improve resilience, efficiency and visibility.",
+          "entityName": "NTT DATA",
+          "category": "Competition",
+          "state": "New York",
+          "publicationDate": "2026-09-08T04:00:00-04:00",
+          "source": "Business Wire",
+          "sourceUrl": "https://www.businesswire.com/news/home/20260908184980/en/",
+          "topic": "Technology",
+          "sentiment": "Positive",
+          "location": "Global",
+          "relevanceScore": 82
+        },
+        {
+          "headline": "Governor Hochul delivers remarks at New York City’s West Indian American Day Parade breakfast",
+          "summary": "Governor Kathy Hochul delivered remarks at the West Indian American Day Parade Breakfast before participating in the parade. The official release documented the governor’s Labor Day public appearance in New York City.",
+          "entityName": "Governor of New York",
+          "category": "Political Institution",
+          "state": "New York",
+          "publicationDate": "2026-09-07T14:17:00-04:00",
+          "source": "Office of the Governor of New York",
+          "sourceUrl": "https://www.governor.ny.gov/news/video-audio-photos-rush-transcript-governor-hochul-delivers-remarks-west-indian-american-day",
+          "topic": "Public Service",
+          "sentiment": "Neutral",
+          "location": "New York City, New York",
+          "relevanceScore": 68
+        }
+      ],
+      "quality": {
+        "duplicatesRemoved": 24,
+        "unsupportedItemsExcluded": 1182,
+        "notes": "Searched all 156 canonical workbook rows (108 unique names) in bounded, conservative exact-name/state-qualified batches, then ran supplemental state-level scans. The captured exact-name searches returned 1,045 leads (1,021 unique URLs), and seven supplemental state scans returned 140 additional leads; every retained source was opened and publication timing/direct relevance were verified. Three in-window events were retained and mapped to three canonical rows: two distinct Governor of New York releases were retained while duplicate coverage of the same parade event was consolidated; the NTT DATA Business Wire release was retained. Stale, out-of-window, undated, generic, social-only, job, tangential and unsupported leads were excluded."
       }
     }
   }
