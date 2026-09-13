@@ -4352,20 +4352,6 @@
           "relevanceScore": 94
         },
         {
-          "headline": "TxDOT launches Project Nexus test flights for future Texas air taxis",
-          "summary": "A Yahoo News report published Sep. 12 said TxDOT launched the first phase of Project Nexus with helicopters and fixed-wing aircraft; initial flights carry no passengers and are intended to validate routes and collect data before later medical, cargo and passenger phases.",
-          "entityName": "Texas Department of Transportation",
-          "category": "Agency",
-          "state": "Texas",
-          "publicationDate": "2026-09-12T12:10:00-04:00",
-          "source": "Yahoo News (Chron)",
-          "sourceUrl": "https://www.yahoo.com/news/us/articles/texas-air-taxis-officially-past-161023952.html",
-          "topic": "Technology",
-          "sentiment": "Positive",
-          "location": "Texas",
-          "relevanceScore": 90
-        },
-        {
           "headline": "Florida motor-vehicle agency investigates breach involving police credentials",
           "summary": "A Sep. 12 WPBF report said the Florida Department of Highway Safety and Motor Vehicles traced a data breach to a Plant City police user’s credentials stored on a personal device; the agency said it was mitigated and no further breach was ongoing.",
           "entityName": "Florida Department of Highway Safety and Motor Vehicles (HSMV)",
@@ -4377,6 +4363,20 @@
           "topic": "Cybersecurity",
           "sentiment": "Negative",
           "location": "Florida",
+          "relevanceScore": 90
+        },
+        {
+          "headline": "TxDOT launches Project Nexus test flights for future Texas air taxis",
+          "summary": "A Yahoo News report published Sep. 12 said TxDOT launched the first phase of Project Nexus with helicopters and fixed-wing aircraft; initial flights carry no passengers and are intended to validate routes and collect data before later medical, cargo and passenger phases.",
+          "entityName": "Texas Department of Transportation",
+          "category": "Agency",
+          "state": "Texas",
+          "publicationDate": "2026-09-12T12:10:00-04:00",
+          "source": "Yahoo News (Chron)",
+          "sourceUrl": "https://www.yahoo.com/news/us/articles/texas-air-taxis-officially-past-161023952.html",
+          "topic": "Technology",
+          "sentiment": "Positive",
+          "location": "Texas",
           "relevanceScore": 90
         },
         {
@@ -4450,6 +4450,20 @@
           "relevanceScore": 85
         },
         {
+          "headline": "Florida Digital Service joins response to motor-vehicle data breach",
+          "summary": "The Florida Digital Service is partnering with the Florida Department of Highway Safety and Motor Vehicles and the Florida Department of Law Enforcement in the response to a breach involving improperly stored police credentials; the Sep. 12 report said no further breach was ongoing.",
+          "entityName": "Florida Digital Service (central IT)",
+          "category": "Political Institution",
+          "state": "Florida",
+          "publicationDate": "2026-09-12T17:09:00-04:00",
+          "source": "WPBF 25 News",
+          "sourceUrl": "https://www.wpbf.com/article/florida-investigates-data-breach-tied-to-cybercriminal-organization/73701312",
+          "topic": "Cybersecurity",
+          "sentiment": "Negative",
+          "location": "Florida",
+          "relevanceScore": 80
+        },
+        {
           "headline": "Two Suffolk County raccoons test positive for rabies; state lab notified county",
           "summary": "FOX 5 reported that the New York State Department of Health’s Wadsworth Center notified Suffolk County on Sep. 11 that two raccoons tested positive for rabies; officials urged residents not to handle wildlife.",
           "entityName": "New York State Department of Health",
@@ -4475,20 +4489,6 @@
           "topic": "Public Health",
           "sentiment": "Neutral",
           "location": "Suffolk County, New York",
-          "relevanceScore": 80
-        },
-        {
-          "headline": "Florida Digital Service joins response to motor-vehicle data breach",
-          "summary": "The Florida Digital Service is partnering with the Florida Department of Highway Safety and Motor Vehicles and the Florida Department of Law Enforcement in the response to a breach involving improperly stored police credentials; the Sep. 12 report said no further breach was ongoing.",
-          "entityName": "Florida Digital Service (central IT)",
-          "category": "Political Institution",
-          "state": "Florida",
-          "publicationDate": "2026-09-12T17:09:00-04:00",
-          "source": "WPBF 25 News",
-          "sourceUrl": "https://www.wpbf.com/article/florida-investigates-data-breach-tied-to-cybercriminal-organization/73701312",
-          "topic": "Cybersecurity",
-          "sentiment": "Negative",
-          "location": "Florida",
           "relevanceScore": 80
         },
         {
