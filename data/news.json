@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-13T08:00:00-04:00",
+  "generatedAt": "2026-09-14T08:00:00-04:00",
   "timezone": "America/New_York",
-  "latestDate": "2026-09-13",
+  "latestDate": "2026-09-14",
   "dates": {
     "2026-08-20": {
       "generatedAt": "2026-08-20T12:01:00Z",
@@ -4552,6 +4552,106 @@
         "duplicatesRemoved": 9,
         "unsupportedItemsExcluded": 629,
         "notes": "Searched 108 unique names across 156 canonical rows in bounded batches. Retained 10 qualifying event clusters and mapped them to 15 exact canonical rows. Consolidated syndicated/duplicate reports and excluded undated, outside-window, generic, speculative, and unsupported results. The Ohio Commerce item is a Sep. 12 follow-on report of rankings already reported in an earlier release; the DFPS KRGV item is a Sep. 12 republished follow-on to the Sep. 11 Texas Tribune report, and both are retained because the new source publications qualify. Date-only publication values: FOX 5 rabies page (Sep. 12 date verified; Yahoo syndication showed Sep. 12 3:59 PM EDT), NYC emergency page (official Sep. 12 notice), and Pittsburgh River Rescue (official page published Sep. 12). EOHLC Cambridge financing (official page Sep. 4) and the Phoenix camping story without a verifiable in-window publication date were excluded. No archive files created."
+      }
+    },
+    "2026-09-14": {
+      "generatedAt": "2026-09-14T08:00:00-04:00",
+      "window": {
+        "timezone": "America/New_York",
+        "hours": 24,
+        "start": "2026-09-13T08:00:00-04:00",
+        "end": "2026-09-14T08:00:00-04:00"
+      },
+      "items": [
+        {
+          "headline": "NYC Health Department orders 10 cooling towers cleaned and disinfected as South Bronx Legionnaires investigation continues",
+          "summary": "The New York City Health Department ordered 10 South Bronx cooling towers to be cleaned and disinfected after preliminary PCR testing found Legionella bacteria in all 10 while its investigation of a community cluster continued. Remediation was required by September 14.",
+          "entityName": "City of New York",
+          "category": "Agency",
+          "state": "New York",
+          "publicationDate": "2026-09-13",
+          "source": "New York City Health Department",
+          "sourceUrl": "https://www.nyc.gov/site/doh/about/press/pr2026/nyc-health-department-orders-cooling-towers-to-be-cleaned-in-south-bronx.page",
+          "topic": "Public Service",
+          "sentiment": "Mixed",
+          "location": "Bronx, New York",
+          "relevanceScore": 96
+        },
+        {
+          "headline": "Federal court leaves Maricopa County Sheriff’s Office under court-ordered oversight",
+          "summary": "AZFamily reported that a federal court rejected Maricopa County’s attempt to end nearly two decades of court-ordered reforms at the Sheriff’s Office. The county’s sheriff’s office said it was disappointed while noting the court’s framework could eliminate portions of the order that are no longer necessary.",
+          "entityName": "Maricopa County",
+          "category": "Agency",
+          "state": "Arizona",
+          "publicationDate": "2026-09-14",
+          "source": "AZFamily",
+          "sourceUrl": "https://www.azfamily.com/2026/09/14/maricopa-county-sheriffs-office-disappointed-judges-ruling-federal-oversight/",
+          "topic": "Litigation",
+          "sentiment": "Negative",
+          "location": "Maricopa County, Arizona",
+          "relevanceScore": 92
+        },
+        {
+          "headline": "North Carolina Department of Information Technology launches $1 million Broadband Satellite Resiliency Grant",
+          "summary": "The Benton Institute published NCDIT’s notice of funding opportunity for a $1 million Broadband Satellite Resiliency Grant to help public and community institutions buy satellite backup-connectivity equipment for emergencies. The Benton entry links NCDIT’s official announcement, dated September 10, four days before the Benton publication.",
+          "entityName": "North Carolina Department of Information Technology (NCDIT)",
+          "category": "Political Institution",
+          "state": "North Carolina",
+          "publicationDate": "2026-09-13",
+          "source": "Benton Institute for Broadband & Society",
+          "sourceUrl": "https://www.benton.org/headlines/north-carolina-department-information-technology-launches-1-million-broadband-satellite",
+          "topic": "Grant Award",
+          "sentiment": "Positive",
+          "location": "North Carolina statewide",
+          "relevanceScore": 91
+        },
+        {
+          "headline": "Still no answers from DeSantis administration on KidCare disenrollments and challenges",
+          "summary": "The DeSantis administration could not provide firm answers on when Florida will expand KidCare eligibility under state law amid ongoing litigation with the federal government. Florida lawmakers also questioned the Agency for Health Care Administration about disenrollments and a requested budget amendment.",
+          "entityName": "Governor of Florida",
+          "category": "Political Institution",
+          "state": "Florida",
+          "publicationDate": "2026-09-14",
+          "source": "Florida Phoenix",
+          "sourceUrl": "https://floridaphoenix.com/2026/09/14/still-no-answers-from-desantis-administration-on-kidcare-disenrollments-challenges/",
+          "topic": "Policy",
+          "sentiment": "Negative",
+          "location": "Florida statewide",
+          "relevanceScore": 84
+        },
+        {
+          "headline": "North Carolina hospital beds delayed across the state by legal appeals",
+          "summary": "Carolina Public Press reported that appeals by competing health systems have left more than 1,100 acute-care beds approved by North Carolina DHHS since 2020 undeveloped or in legal limbo. The report said delays are preventing approved projects from meeting projected healthcare-capacity needs.",
+          "entityName": "North Carolina Department of Health and Human Services",
+          "category": "Agency",
+          "state": "North Carolina",
+          "publicationDate": "2026-09-14",
+          "source": "Carolina Public Press",
+          "sourceUrl": "https://carolinapublicpress.org/80587/needed-hospital-beds-across-nc-delayed-by-industry-appeals/",
+          "topic": "Litigation",
+          "sentiment": "Negative",
+          "location": "North Carolina statewide",
+          "relevanceScore": 82
+        },
+        {
+          "headline": "North Carolina hospital beds delayed across the state by legal appeals",
+          "summary": "Carolina Public Press reported that appeals by competing health systems have left more than 1,100 acute-care beds approved by North Carolina DHHS since 2020 undeveloped or in legal limbo. The report said delays are preventing approved projects from meeting projected healthcare-capacity needs.",
+          "entityName": "North Carolina Department of Health and Human Services (DHHS)",
+          "category": "Political Institution",
+          "state": "North Carolina",
+          "publicationDate": "2026-09-14",
+          "source": "Carolina Public Press",
+          "sourceUrl": "https://carolinapublicpress.org/80587/needed-hospital-beds-across-nc-delayed-by-industry-appeals/",
+          "topic": "Litigation",
+          "sentiment": "Negative",
+          "location": "North Carolina statewide",
+          "relevanceScore": 82
+        }
+      ],
+      "quality": {
+        "duplicatesRemoved": 126,
+        "unsupportedItemsExcluded": 863,
+        "notes": "Searched all 108 unique canonical names covering 156 workbook rows (150 state/name pairs) in bounded batches, then ran state-level and official-source supplemental searches. Five distinct in-window event clusters were retained and mapped to 6 exact canonical rows. A total of 994 date-like exact-entity candidate hits were screened; 126 repeated URL hits were consolidated and 863 unsupported, stale, out-of-window, generic, undated, or non-material candidates were excluded. Date-only publication values are used for the NYC Health Department release (official page dated September 13), AZFamily Maricopa follow-on (dated September 14 in its URL/search result; page shows the Sunday statement), Florida Phoenix KidCare report (dated September 14 in its page URL/search result), Carolina Public Press hospital report (publisher archive verifies September 14), and Benton Institute NCDIT entry (dated September 13). The NCDIT entry is a qualifying September 13 republished press-release page but links the official NCDIT announcement dated September 10; that timing caveat is stated in the summary. The exact New York Governor pressroom lead was excluded after its linked release verified September 10, outside this window. No archive files created."
       }
     }
   }
