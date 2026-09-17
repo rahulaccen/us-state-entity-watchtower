@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-16T08:00:00-04:00",
+  "generatedAt": "2026-09-17T08:00:00-04:00",
   "timezone": "America/New_York",
-  "latestDate": "2026-09-16",
+  "latestDate": "2026-09-17",
   "dates": {
     "2026-08-20": {
       "generatedAt": "2026-08-20T12:01:00Z",
@@ -5244,6 +5244,92 @@
         "duplicatesRemoved": 7,
         "unsupportedItemsExcluded": 328,
         "notes": "Search covered 108 unique names across 156 canonical rows. The 350 keyword-filtered discovery candidates were reviewed and 15 distinct in-window source events were retained as 19 exact canonical-row items. Seven syndicated or duplicate event candidates were consolidated; 328 candidates were excluded as unsupported, stale, undated, generic, indirect, or otherwise non-qualifying. Date-only publication values were used for Maricopa County (publisher listing), the Fort Worth Report article, and the NC Medicaid update; each was verified as published on September 15 by the publisher or official listing/page date. The KVUE article body lacked a normal timestamp; its associated KVUE video listing verified publication at 10:04 PM CDT on September 15. The malformed Florida CFO page (URL path September 15 but visible page date September 20) and September 14 sources were excluded."
+      }
+    },
+    "2026-09-17": {
+      "generatedAt": "2026-09-17T08:00:00-04:00",
+      "window": {
+        "timezone": "America/New_York",
+        "hours": 24,
+        "start": "2026-09-16T08:00:00-04:00",
+        "end": "2026-09-17T08:00:00-04:00"
+      },
+      "items": [
+        {
+          "headline": "Governor Hochul launches FloodSafe NY to build more resilient communities",
+          "summary": "Governor Kathy Hochul announced FloodSafe NY, a partnership between the New York State Department of Environmental Conservation and the U.S. Geological Survey to develop a statewide hydrologic monitoring network. The initiative will expand and modernize streamgages to improve flood prediction, emergency response, drought monitoring and water-resource planning.",
+          "entityName": "Governor of New York",
+          "category": "Political Institution",
+          "state": "New York",
+          "publicationDate": "2026-09-16",
+          "source": "Office of Governor Kathy Hochul",
+          "sourceUrl": "https://www.governor.ny.gov/news/governor-hochul-launches-floodsafe-ny-build-more-resilient-communities",
+          "topic": "Operations",
+          "sentiment": "Positive",
+          "location": "Albany, New York",
+          "relevanceScore": 95
+        },
+        {
+          "headline": "Mayor Mamdani brings 17 new public bathrooms to neighborhoods across New York City",
+          "summary": "Mayor Zohran Kwame Mamdani announced that installation has begun on 17 free, accessible modular public bathrooms across New York City as part of a $4 million pilot. NYC selected Throne Labs through a competitive process to deliver, operate and service the one-year pilot.",
+          "entityName": "City of New York",
+          "category": "Agency",
+          "state": "New York",
+          "publicationDate": "2026-09-16",
+          "source": "NYC Mayor's Office",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-brings-17-new-public-bathrooms-to-neighborhoods-ac",
+          "topic": "Public Service",
+          "sentiment": "Positive",
+          "location": "New York City, New York",
+          "relevanceScore": 94
+        },
+        {
+          "headline": "Mayor Mamdani brings 17 new public bathrooms to neighborhoods across New York City",
+          "summary": "Mayor Zohran Kwame Mamdani announced that installation has begun on 17 free, accessible modular public bathrooms across New York City as part of a $4 million pilot. NYC selected Throne Labs through a competitive process to deliver, operate and service the one-year pilot.",
+          "entityName": "New York City Mayor's Office / City Hall",
+          "category": "Political Institution",
+          "state": "New York",
+          "publicationDate": "2026-09-16",
+          "source": "NYC Mayor's Office",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-brings-17-new-public-bathrooms-to-neighborhoods-ac",
+          "topic": "Public Service",
+          "sentiment": "Positive",
+          "location": "New York City, New York",
+          "relevanceScore": 94
+        },
+        {
+          "headline": "Mayor Mamdani announces New York City’s first bus shelter with a cooling green roof in Brownsville",
+          "summary": "Mayor Zohran Kwame Mamdani and the city’s Chief Climate Officer announced installation of four pilot bus-shelter roofs on Pitkin Avenue in Brownsville, including New York City’s first green-roof bus shelter. The pilot tests nature-based and heat-reflective infrastructure to reduce heat and capture rainfall while improving the rider experience.",
+          "entityName": "City of New York",
+          "category": "Agency",
+          "state": "New York",
+          "publicationDate": "2026-09-16",
+          "source": "NYC Mayor's Office",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-announces-new-york-city-s-first-bus-shelter-with-a",
+          "topic": "Operations",
+          "sentiment": "Positive",
+          "location": "Brownsville, Brooklyn, New York",
+          "relevanceScore": 93
+        },
+        {
+          "headline": "Mayor Mamdani announces New York City’s first bus shelter with a cooling green roof in Brownsville",
+          "summary": "Mayor Zohran Kwame Mamdani and the city’s Chief Climate Officer announced installation of four pilot bus-shelter roofs on Pitkin Avenue in Brownsville, including New York City’s first green-roof bus shelter. The pilot tests nature-based and heat-reflective infrastructure to reduce heat and capture rainfall while improving the rider experience.",
+          "entityName": "New York City Mayor's Office / City Hall",
+          "category": "Political Institution",
+          "state": "New York",
+          "publicationDate": "2026-09-16",
+          "source": "NYC Mayor's Office",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-announces-new-york-city-s-first-bus-shelter-with-a",
+          "topic": "Operations",
+          "sentiment": "Positive",
+          "location": "Brownsville, Brooklyn, New York",
+          "relevanceScore": 93
+        }
+      ],
+      "quality": {
+        "duplicatesRemoved": 1,
+        "unsupportedItemsExcluded": 369,
+        "notes": "Searched all 108 unique canonical names representing 156 rows, plus bounded state-level searches; reviewed official and reliable local/national results. One Florida recap published Sep. 16 repeated the Sep. 15 law-enforcement bonus event already in history and was excluded. Generic, undated, irrelevant, job, marketing, and unsupported results were excluded. The three retained source pages show a reliable in-window date (Sep. 16) but no publication time; date-only values are used."
       }
     }
   }
