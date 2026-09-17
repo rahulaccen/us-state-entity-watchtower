@@ -5327,9 +5327,9 @@
         }
       ],
       "quality": {
-        "duplicatesRemoved": 1,
-        "unsupportedItemsExcluded": 369,
-        "notes": "Searched all 108 unique canonical names representing 156 rows, plus bounded state-level searches; reviewed official and reliable local/national results. One Florida recap published Sep. 16 repeated the Sep. 15 law-enforcement bonus event already in history and was excluded. Generic, undated, irrelevant, job, marketing, and unsupported results were excluded. The three retained source pages show a reliable in-window date (Sep. 16) but no publication time; date-only values are used."
+        "duplicatesRemoved": 18,
+        "unsupportedItemsExcluded": 443,
+        "notes": "Searched all 108 unique canonical names representing 156 workbook rows in bounded batches, then ran eight state-level supplemental searches (464 result records reviewed). Three distinct source events were retained and mapped to 5 exact canonical-row items. Seventeen repeated URL hits and one Florida recap of the prior day's law-enforcement bonus event were consolidated; the remaining 443 candidates were excluded as unsupported, stale, out-of-window, undated, generic, job, social-only, tangential, or non-material. The three retained official source pages verify September 16, 2026 but expose no publication clock time, so date-only publication values are used. No archive files created."
       }
     }
   }
