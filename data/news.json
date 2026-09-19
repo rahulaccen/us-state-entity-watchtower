@@ -5864,7 +5864,7 @@
       ],
       "quality": {
         "duplicatesRemoved": 216,
-        "unsupportedItemsExcluded": 1983,
+        "unsupportedItemsExcluded": 1967,
         "notes": "108 unique canonical names (156 rows) were searched in bounded batches. The search workflow produced 2,198 result records (1,031 broad, 957 recent-window, and 210 targeted); 216 repeated result records/URL variants were removed during consolidation. Fifteen unique in-window events were retained and mapped to 22 canonical rows. Unsupported snippets, generic pages, jobs, social posts, stale or out-of-window reports, unrelated keyword matches, and non-material technology/company coverage were excluded. Date-only publication values are used for official dated pages and for WBTV, KBTX, and MortgagePoint pages that verify September 18 but expose no publication clock time; the latter timing is supported by the dated URL/page and search result."
       }
     }
