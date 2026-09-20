@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-19T08:00:00-04:00",
+  "generatedAt": "2026-09-20T08:00:00-04:00",
   "timezone": "America/New_York",
-  "latestDate": "2026-09-19",
+  "latestDate": "2026-09-20",
   "dates": {
     "2026-08-20": {
       "generatedAt": "2026-08-20T12:01:00Z",
@@ -5866,6 +5866,190 @@
         "duplicatesRemoved": 216,
         "unsupportedItemsExcluded": 1967,
         "notes": "108 unique canonical names (156 rows) were searched in bounded batches. The search workflow produced 2,198 result records (1,031 broad, 957 recent-window, and 210 targeted); 216 repeated result records/URL variants were removed during consolidation. Fifteen unique in-window events were retained and mapped to 22 canonical rows. Unsupported snippets, generic pages, jobs, social posts, stale or out-of-window reports, unrelated keyword matches, and non-material technology/company coverage were excluded. Date-only publication values are used for official dated pages and for WBTV, KBTX, and MortgagePoint pages that verify September 18 but expose no publication clock time; the latter timing is supported by the dated URL/page and search result."
+      }
+    },
+    "2026-09-20": {
+      "generatedAt": "2026-09-20T08:00:00-04:00",
+      "window": {
+        "timezone": "America/New_York",
+        "hours": 24,
+        "start": "2026-09-19T08:00:00-04:00",
+        "end": "2026-09-20T08:00:00-04:00"
+      },
+      "items": [
+        {
+          "headline": "North Carolina Medicaid work and community-engagement requirements set for 2027",
+          "summary": "North Carolina Medicaid enrollees will generally need to complete 80 hours a month of work, school, training or community service, or meet an income threshold, beginning Jan. 1, 2027. The report also describes six-month renewals and other eligibility changes tied to new federal rules and NC DHHS guidance.",
+          "source": "WBTV",
+          "sourceUrl": "https://www.wbtv.com/2026/09/19/what-know-about-north-carolinas-2027-medicaid-work-requirements/",
+          "publicationDate": "2026-09-19",
+          "topic": "Policy",
+          "sentiment": "Negative",
+          "location": "North Carolina",
+          "relevanceScore": 93,
+          "entityName": "North Carolina Department of Health and Human Services",
+          "category": "Agency",
+          "state": "North Carolina"
+        },
+        {
+          "headline": "North Carolina Medicaid work and community-engagement requirements set for 2027",
+          "summary": "North Carolina Medicaid enrollees will generally need to complete 80 hours a month of work, school, training or community service, or meet an income threshold, beginning Jan. 1, 2027. The report also describes six-month renewals and other eligibility changes tied to new federal rules and NC DHHS guidance.",
+          "source": "WBTV",
+          "sourceUrl": "https://www.wbtv.com/2026/09/19/what-know-about-north-carolinas-2027-medicaid-work-requirements/",
+          "publicationDate": "2026-09-19",
+          "topic": "Policy",
+          "sentiment": "Negative",
+          "location": "North Carolina",
+          "relevanceScore": 93,
+          "entityName": "North Carolina Department of Health and Human Services (DHHS)",
+          "category": "Political Institution",
+          "state": "North Carolina"
+        },
+        {
+          "headline": "New York reports 22 additional cyclosporiasis cases in latest update",
+          "summary": "The New York State Department of Health reported 22 additional confirmed cyclosporiasis cases between Sept. 8 and Sept. 14. The state's total reached 1,064 cases from May 1 through Sept. 14, according to the report.",
+          "source": "The Journal News (lohud)",
+          "sourceUrl": "https://www.lohud.com/story/news/2026/09/19/new-york-cyclosporiasis-cases-see-the-latest-update/91844186007/",
+          "publicationDate": "2026-09-19T09:20:00-04:00",
+          "topic": "Public Service",
+          "sentiment": "Negative",
+          "location": "New York State",
+          "relevanceScore": 90,
+          "entityName": "New York State Department of Health",
+          "category": "Agency",
+          "state": "New York"
+        },
+        {
+          "headline": "New York reports 22 additional cyclosporiasis cases in latest update",
+          "summary": "The New York State Department of Health reported 22 additional confirmed cyclosporiasis cases between Sept. 8 and Sept. 14. The state's total reached 1,064 cases from May 1 through Sept. 14, according to the report.",
+          "source": "The Journal News (lohud)",
+          "sourceUrl": "https://www.lohud.com/story/news/2026/09/19/new-york-cyclosporiasis-cases-see-the-latest-update/91844186007/",
+          "publicationDate": "2026-09-19T09:20:00-04:00",
+          "topic": "Public Service",
+          "sentiment": "Negative",
+          "location": "New York State",
+          "relevanceScore": 90,
+          "entityName": "New York State Department of Health",
+          "category": "Political Institution",
+          "state": "New York"
+        },
+        {
+          "headline": "New York City hosts 2026 Urban 20 Mayors Summit",
+          "summary": "New York City welcomed mayors from the United States and around the world for the 2026 Urban 20 summit, co-chaired by New York and Los Angeles. The three-day summit focuses on housing, climate and migration and runs Sept. 19–21.",
+          "source": "New York City Mayor's Office",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-welcomes-mayors-from-around-the-world-to-new-york-.html",
+          "publicationDate": "2026-09-19",
+          "topic": "Partnership",
+          "sentiment": "Positive",
+          "location": "New York City, New York",
+          "relevanceScore": 90,
+          "entityName": "City of New York",
+          "category": "Agency",
+          "state": "New York"
+        },
+        {
+          "headline": "New York City hosts 2026 Urban 20 Mayors Summit",
+          "summary": "New York City welcomed mayors from the United States and around the world for the 2026 Urban 20 summit, co-chaired by New York and Los Angeles. The three-day summit focuses on housing, climate and migration and runs Sept. 19–21.",
+          "source": "New York City Mayor's Office",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-welcomes-mayors-from-around-the-world-to-new-york-.html",
+          "publicationDate": "2026-09-19",
+          "topic": "Partnership",
+          "sentiment": "Positive",
+          "location": "New York City, New York",
+          "relevanceScore": 90,
+          "entityName": "New York City Mayor's Office / City Hall",
+          "category": "Political Institution",
+          "state": "New York"
+        },
+        {
+          "headline": "Former JEA CEO Aaron Zahn released from prison",
+          "summary": "Former JEA CEO Aaron Zahn was released from prison after serving time related to the failed JEA sale proposal. The report places the release in the latest chapter of the utility's leadership and governance controversy.",
+          "source": "Action News Jax",
+          "sourceUrl": "https://www.actionnewsjax.com/news/local/former-jea-ceo-aaron-zahn-released-prison/52b5c334-fe65-4a3b-9cf4-e48fba80eb2e/",
+          "publicationDate": "2026-09-19",
+          "topic": "Leadership",
+          "sentiment": "Neutral",
+          "location": "Jacksonville, Florida",
+          "relevanceScore": 86,
+          "entityName": "JEA",
+          "category": "Agency",
+          "state": "Florida"
+        },
+        {
+          "headline": "Former JEA CEO Aaron Zahn released from prison",
+          "summary": "Former JEA CEO Aaron Zahn was released from prison after serving time related to the failed JEA sale proposal. The report places the release in the latest chapter of the utility's leadership and governance controversy.",
+          "source": "Action News Jax",
+          "sourceUrl": "https://www.actionnewsjax.com/news/local/former-jea-ceo-aaron-zahn-released-prison/52b5c334-fe65-4a3b-9cf4-e48fba80eb2e/",
+          "publicationDate": "2026-09-19",
+          "topic": "Leadership",
+          "sentiment": "Neutral",
+          "location": "Jacksonville, Florida",
+          "relevanceScore": 86,
+          "entityName": "JEA (Jacksonville Electric Authority)",
+          "category": "Political Institution",
+          "state": "Florida"
+        },
+        {
+          "headline": "North Carolina Department of Administration seeks replacement for eliminated HUB office",
+          "summary": "After the state budget eliminated North Carolina's Office for Historically Underutilized Businesses, the Department of Administration began forums to gather input on a replacement Small Business Enterprise Program. The new program is housed in the Division of Purchase and Contract and is race- and gender-neutral under the described criteria.",
+          "source": "Hoodline",
+          "sourceUrl": "https://hoodline.com/2026/09/nc-scraps-27-year-minority-business-office-now-scrambles-to-fill-the-gap/",
+          "publicationDate": "2026-09-19",
+          "topic": "Procurement",
+          "sentiment": "Mixed",
+          "location": "North Carolina",
+          "relevanceScore": 82,
+          "entityName": "North Carolina Department of Administration",
+          "category": "Agency",
+          "state": "North Carolina"
+        },
+        {
+          "headline": "Bexar County sheriff's office arrests man accused of failing to report abduction",
+          "summary": "The Bexar County Sheriff's Office arrested a man accused of watching a group beat and abduct another man who was later found dead in southeast Bexar County. The arrest affidavit cited in the report alleges he failed to report the abduction.",
+          "source": "KSAT 12",
+          "sourceUrl": "https://www.ksat.com/video/news/2026/09/20/bcso-man-arrested-for-failing-to-report-abduction-of-man-later-found-dead-in-southeast-bexar-county/",
+          "publicationDate": "2026-09-19T22:10:00-04:00",
+          "topic": "Public Service",
+          "sentiment": "Negative",
+          "location": "Bexar County, Texas",
+          "relevanceScore": 78,
+          "entityName": "Bexar County",
+          "category": "Agency",
+          "state": "Texas"
+        },
+        {
+          "headline": "Bexar County sheriff's office arrests man accused of failing to report abduction",
+          "summary": "The Bexar County Sheriff's Office arrested a man accused of watching a group beat and abduct another man who was later found dead in southeast Bexar County. The arrest affidavit cited in the report alleges he failed to report the abduction.",
+          "source": "KSAT 12",
+          "sourceUrl": "https://www.ksat.com/video/news/2026/09/20/bcso-man-arrested-for-failing-to-report-abduction-of-man-later-found-dead-in-southeast-bexar-county/",
+          "publicationDate": "2026-09-19T22:10:00-04:00",
+          "topic": "Public Service",
+          "sentiment": "Negative",
+          "location": "Bexar County, Texas",
+          "relevanceScore": 78,
+          "entityName": "Bexar County, Texas",
+          "category": "Political Institution",
+          "state": "Texas"
+        },
+        {
+          "headline": "Pennsylvania Emergency Readiness Advisory Group begins work on disaster preparedness",
+          "summary": "The Pennsylvania Emergency Management Agency held the first quarterly meeting of the Emergency Readiness Advisory Group created by Governor Shapiro's Executive Order 2026-04. The Department of General Services is among the state agencies assigned to review contracts and identify additional disaster-response needs.",
+          "source": "The Times Observer",
+          "sourceUrl": "https://www.timesobserver.com/news/local-news/2026/09/first-meeting-of-emergency-readiness-advisory-group-held/",
+          "publicationDate": "2026-09-19",
+          "topic": "Operations",
+          "sentiment": "Neutral",
+          "location": "Pennsylvania",
+          "relevanceScore": 78,
+          "entityName": "Department of General Services",
+          "category": "Agency",
+          "state": "Pennsylvania"
+        }
+      ],
+      "quality": {
+        "duplicatesRemoved": 28,
+        "unsupportedItemsExcluded": 856,
+        "notes": "Searched all 108 unique names covering 156 canonical rows in bounded batches (891 result records, 863 unique URLs); 28 repeated result URLs were consolidated. Seven distinct in-window events were retained and mapped to 12 exact canonical-row items. The remaining 856 unique leads were excluded as unsupported, stale, out-of-window, undated, generic, job, social-only, tangential, duplicate-event, or insufficiently direct/material. Date-only publication values are used for JEA, NYC, NC Medicaid, NC Administration, and Pennsylvania DGS where the opened publisher page verified the September 19 date but exposed no clock time; JEA timing was corroborated by contemporaneous search results, while the direct page showed the September 19 media asset/headline. Ohio Commerce was excluded because its original post was 6:30 a.m. EDT, before the 8:00 a.m. window start, despite a later 5:52 p.m. update. Bexar County was published at 10:10 p.m. EDT. Ohio University was excluded because its official page verifies September 18, outside the window; the Massachusetts bond item was excluded because it describes a September 15 announcement."
       }
     }
   }
