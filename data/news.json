@@ -6104,20 +6104,6 @@
           "relevanceScore": 91
         },
         {
-          "headline": "Pennsylvania warns of higher state SNAP costs under federal overhaul",
-          "summary": "The Philadelphia Inquirer reported that federal SNAP changes will require Pennsylvania to cover 75% of program-administration costs beginning October 1 and could put the state on the hook for as much as $400 million in annual benefits costs later. Gov. Josh Shapiro's office said the state budget cannot absorb the added costs and cited an $87 million state allocation for administration.",
-          "entityName": "Governor of Pennsylvania",
-          "category": "Political Institution",
-          "state": "Pennsylvania",
-          "publicationDate": "2026-09-20T05:01:00-04:00",
-          "source": "The Philadelphia Inquirer",
-          "sourceUrl": "https://www.inquirer.com/politics/pennsylvania/snap-benefits-trump-pennsylvania-budget-20260920.html",
-          "topic": "Budget",
-          "sentiment": "Negative",
-          "location": "Pennsylvania",
-          "relevanceScore": 88
-        },
-        {
           "headline": "Mayor Mamdani to meet President Trump at Gracie Mansion on New York City issues",
           "summary": "CNN reported that New York City Mayor Zohran Mamdani was scheduled to meet President Donald Trump at Gracie Mansion on September 21, with the mayor's office saying the discussion would focus on issues affecting New York City and New Yorkers. The report was published September 20 and updated later that evening; the meeting itself was scheduled for after the briefing window.",
           "entityName": "New York City Mayor's Office / City Hall",
@@ -6176,8 +6162,8 @@
       ],
       "quality": {
         "duplicatesRemoved": 12,
-        "unsupportedItemsExcluded": 810,
-        "notes": "Searched all 108 unique names representing 156 canonical rows in conservative bounded batches (828 raw result hits). Retained six distinct in-window event groups and mapped them to eight canonical rows. Excluded jobs, social pages, generic/undated pages, keyword collisions, out-of-window originals, unsupported snippets, duplicate/syndicated copies, and updates whose original publication timing could not be verified. Date-only publication values are used for the official September 20 NC, NYC and local Texas pages because the pages verify the date but show no time; the Texas item is explicitly a follow-on report to TxDOT's September 16 release. The JEA item explicitly notes that the cited service determinations are from 2024."
+        "unsupportedItemsExcluded": 811,
+        "notes": "Searched all 108 unique names representing 156 canonical rows in conservative bounded batches (828 raw result hits). Retained five distinct in-window event groups and mapped them to seven canonical rows. Excluded jobs, social pages, generic/undated pages, keyword collisions, out-of-window originals, unsupported snippets, duplicate/syndicated copies, and updates whose original publication timing could not be verified. Date-only publication values are used for the official September 20 NC, NYC and local Texas pages because the pages verify the date but show no time; the Texas item is explicitly a follow-on report to TxDOT's September 16 release. The JEA item explicitly notes that the cited service determinations are from 2024."
       }
     }
   }
