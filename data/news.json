@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-20T08:00:00-04:00",
+  "generatedAt": "2026-09-21T08:00:00-04:00",
   "timezone": "America/New_York",
-  "latestDate": "2026-09-20",
+  "latestDate": "2026-09-21",
   "dates": {
     "2026-08-20": {
       "generatedAt": "2026-08-20T12:01:00Z",
@@ -6050,6 +6050,134 @@
         "duplicatesRemoved": 28,
         "unsupportedItemsExcluded": 856,
         "notes": "Searched all 108 unique names covering 156 canonical rows in bounded batches (891 result records, 863 unique URLs); 28 repeated result URLs were consolidated. Seven distinct in-window events were retained and mapped to 12 exact canonical-row items. The remaining 856 unique leads were excluded as unsupported, stale, out-of-window, undated, generic, job, social-only, tangential, duplicate-event, or insufficiently direct/material. Date-only publication values are used for JEA, NYC, NC Medicaid, NC Administration, and Pennsylvania DGS where the opened publisher page verified the September 19 date but exposed no clock time; JEA timing was corroborated by contemporaneous search results, while the direct page showed the September 19 media asset/headline. Ohio Commerce was excluded because its original post was 6:30 a.m. EDT, before the 8:00 a.m. window start, despite a later 5:52 p.m. update. Bexar County was published at 10:10 p.m. EDT. Ohio University was excluded because its official page verifies September 18, outside the window; the Massachusetts bond item was excluded because it describes a September 15 announcement."
+      }
+    },
+    "2026-09-21": {
+      "generatedAt": "2026-09-21T08:00:00-04:00",
+      "window": {
+        "timezone": "America/New_York",
+        "hours": 24,
+        "start": "2026-09-20T08:00:00-04:00",
+        "end": "2026-09-21T08:00:00-04:00"
+      },
+      "items": [
+        {
+          "headline": "Governor Stein says Atrium-WakeMed merger terms address concerns after concessions",
+          "summary": "North Carolina Gov. Josh Stein said updated terms for the proposed Atrium-WakeMed merger cap WakeMed price increases, fully fund $2 billion in capital projects, raise minimum indigent care and create a $150 million community fund. Stein said he no longer opposes the combination.",
+          "entityName": "Governor of North Carolina",
+          "category": "Political Institution",
+          "state": "North Carolina",
+          "publicationDate": "2026-09-20",
+          "source": "Office of the Governor of North Carolina",
+          "sourceUrl": "https://governor.nc.gov/news/press-releases/2026/09/20/wakemed-and-atrium-meet-demands-cap-prices-increase-charity-care-and-fully-invest-2b-new-dollars",
+          "topic": "Policy",
+          "sentiment": "Positive",
+          "location": "Raleigh, North Carolina",
+          "relevanceScore": 92
+        },
+        {
+          "headline": "NYC-led Urban 20 summit closes with communique on housing, climate and migration",
+          "summary": "New York City Mayor Zohran Mamdani joined mayors from 34 cities to close the 2026 Urban 20 summit, where leaders ratified a communique seeking greater authority and resources for cities on housing, climate resilience and migration. The official release says New York City and Los Angeles co-chaired the summit.",
+          "entityName": "City of New York",
+          "category": "Agency",
+          "state": "New York",
+          "publicationDate": "2026-09-20",
+          "source": "New York City Mayor's Office",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/09/mayors-from-around-the-world-unite-to-demand-the-power-to-delive.html",
+          "topic": "Partnership",
+          "sentiment": "Positive",
+          "location": "New York City, New York",
+          "relevanceScore": 91
+        },
+        {
+          "headline": "NYC-led Urban 20 summit closes with communique on housing, climate and migration",
+          "summary": "New York City Mayor Zohran Mamdani joined mayors from 34 cities to close the 2026 Urban 20 summit, where leaders ratified a communique seeking greater authority and resources for cities on housing, climate resilience and migration. The official release says New York City and Los Angeles co-chaired the summit.",
+          "entityName": "New York City Mayor's Office / City Hall",
+          "category": "Political Institution",
+          "state": "New York",
+          "publicationDate": "2026-09-20",
+          "source": "New York City Mayor's Office",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/09/mayors-from-around-the-world-unite-to-demand-the-power-to-delive.html",
+          "topic": "Partnership",
+          "sentiment": "Positive",
+          "location": "New York City, New York",
+          "relevanceScore": 91
+        },
+        {
+          "headline": "Pennsylvania warns of higher state SNAP costs under federal overhaul",
+          "summary": "The Philadelphia Inquirer reported that federal SNAP changes will require Pennsylvania to cover 75% of program-administration costs beginning October 1 and could put the state on the hook for as much as $400 million in annual benefits costs later. Gov. Josh Shapiro's office said the state budget cannot absorb the added costs and cited an $87 million state allocation for administration.",
+          "entityName": "Governor of Pennsylvania",
+          "category": "Political Institution",
+          "state": "Pennsylvania",
+          "publicationDate": "2026-09-20T05:01:00-04:00",
+          "source": "The Philadelphia Inquirer",
+          "sourceUrl": "https://www.inquirer.com/politics/pennsylvania/snap-benefits-trump-pennsylvania-budget-20260920.html",
+          "topic": "Budget",
+          "sentiment": "Negative",
+          "location": "Pennsylvania",
+          "relevanceScore": 88
+        },
+        {
+          "headline": "Mayor Mamdani to meet President Trump at Gracie Mansion on New York City issues",
+          "summary": "CNN reported that New York City Mayor Zohran Mamdani was scheduled to meet President Donald Trump at Gracie Mansion on September 21, with the mayor's office saying the discussion would focus on issues affecting New York City and New Yorkers. The report was published September 20 and updated later that evening; the meeting itself was scheduled for after the briefing window.",
+          "entityName": "New York City Mayor's Office / City Hall",
+          "category": "Political Institution",
+          "state": "New York",
+          "publicationDate": "2026-09-20T14:04:00-04:00",
+          "source": "CNN",
+          "sourceUrl": "https://www.cnn.com/2026/09/20/politics/mamdani-trump-nyc-meeting",
+          "topic": "Policy",
+          "sentiment": "Mixed",
+          "location": "New York City, New York",
+          "relevanceScore": 84
+        },
+        {
+          "headline": "TxDOT offers free car-seat checks during Child Passenger Safety Week",
+          "summary": "KGNS reported September 20 that the Texas Department of Transportation was promoting its Love My Car Seat campaign and free inspections during Child Passenger Safety Week, which runs September 20–26. TxDOT's own newsroom page dates the underlying campaign release September 16; this item captures the in-window local follow-on coverage rather than treating the earlier release as new.",
+          "entityName": "Texas Department of Transportation",
+          "category": "Agency",
+          "state": "Texas",
+          "publicationDate": "2026-09-20",
+          "source": "KGNS",
+          "sourceUrl": "https://www.kgns.tv/2026/09/20/txdot-offers-free-car-seat-inspections-across-texas-child-passenger-safety-week/",
+          "topic": "Public Service",
+          "sentiment": "Positive",
+          "location": "Texas",
+          "relevanceScore": 80
+        },
+        {
+          "headline": "Parker's Kitchen projects advance in Jacksonville with JEA service determinations",
+          "summary": "The Jacksonville Daily Record reported city review of two Parker's Kitchen sites and noted that JEA issued service-availability determination letters for the projects. The cited JEA letters date to April 2 and November 21, 2024, so the September 21 report is a current development update rather than a new JEA determination.",
+          "entityName": "JEA",
+          "category": "Agency",
+          "state": "Florida",
+          "publicationDate": "2026-09-21T05:00:00-04:00",
+          "source": "Jacksonville Daily Record",
+          "sourceUrl": "https://www.jaxdailyrecord.com/news/2026/sep/21/parkers-kitchen-advances-development-in-regency-and-southside/",
+          "topic": "Operations",
+          "sentiment": "Neutral",
+          "location": "Jacksonville, Florida",
+          "relevanceScore": 68
+        },
+        {
+          "headline": "Parker's Kitchen projects advance in Jacksonville with JEA service determinations",
+          "summary": "The Jacksonville Daily Record reported city review of two Parker's Kitchen sites and noted that JEA issued service-availability determination letters for the projects. The cited JEA letters date to April 2 and November 21, 2024, so the September 21 report is a current development update rather than a new JEA determination.",
+          "entityName": "JEA (Jacksonville Electric Authority)",
+          "category": "Political Institution",
+          "state": "Florida",
+          "publicationDate": "2026-09-21T05:00:00-04:00",
+          "source": "Jacksonville Daily Record",
+          "sourceUrl": "https://www.jaxdailyrecord.com/news/2026/sep/21/parkers-kitchen-advances-development-in-regency-and-southside/",
+          "topic": "Operations",
+          "sentiment": "Neutral",
+          "location": "Jacksonville, Florida",
+          "relevanceScore": 68
+        }
+      ],
+      "quality": {
+        "duplicatesRemoved": 12,
+        "unsupportedItemsExcluded": 810,
+        "notes": "Searched all 108 unique names representing 156 canonical rows in conservative bounded batches (828 raw result hits). Retained six distinct in-window event groups and mapped them to eight canonical rows. Excluded jobs, social pages, generic/undated pages, keyword collisions, out-of-window originals, unsupported snippets, duplicate/syndicated copies, and updates whose original publication timing could not be verified. Date-only publication values are used for the official September 20 NC, NYC and local Texas pages because the pages verify the date but show no time; the Texas item is explicitly a follow-on report to TxDOT's September 16 release. The JEA item explicitly notes that the cited service determinations are from 2024."
       }
     }
   }
