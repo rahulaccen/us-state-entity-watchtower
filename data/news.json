@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-22T08:00:00-04:00",
+  "generatedAt": "2026-09-23T08:00:00-04:00",
   "timezone": "America/New_York",
-  "latestDate": "2026-09-22",
+  "latestDate": "2026-09-23",
   "dates": {
     "2026-08-20": {
       "generatedAt": "2026-08-20T12:01:00Z",
@@ -6432,6 +6432,50 @@
         "duplicatesRemoved": 28,
         "unsupportedItemsExcluded": 826,
         "notes": "Searched all 108 unique names covering 156 canonical rows with 883 raw result rows (840 unique URLs). Removed 28 duplicate URL groups (43 repeated rows) and consolidated syndicated/event duplicates. Retained 14 distinct source events mapped to 18 canonical-row items. Excluded stale or undated pages, update-only timestamps, unsupported snippets, generic pages, jobs, social posts, keyword collisions, and tangential commentary. Seven date-only publication values were retained where the source page verified the 2026-09-21 or 2026-09-22 publication date but exposed no time; all other retained timestamps were checked against the window."
+      }
+    },
+    "2026-09-23": {
+      "generatedAt": "2026-09-23T08:00:00-04:00",
+      "window": {
+        "timezone": "America/New_York",
+        "hours": 24,
+        "start": "2026-09-22T08:00:00-04:00",
+        "end": "2026-09-23T08:00:00-04:00"
+      },
+      "items": [
+        {
+          "headline": "NEC to move Ohio's statewide biometric system to Microsoft Azure Government",
+          "summary": "NEC announced that the Ohio Attorney General's Office, through the Ohio Bureau of Criminal Investigation, is upgrading its statewide biometric identification system to NEC's Integra-ID 7 software-as-a-service platform hosted in Microsoft Azure Government. The modernization of Ohio's existing on-premises environment began in 2026 and is expected to take less than nine months.",
+          "entityName": "Microsoft (Azure Government)",
+          "category": "Ecosystem Partner",
+          "state": "Ohio",
+          "publicationDate": "2026-09-22T15:11:00",
+          "source": "Rutland Herald (Business Wire / NEC)",
+          "sourceUrl": "https://www.rutlandherald.com/news/business/nec-announces-ohio-attorney-generals-office-upgrade-to-integra-id-7-software-as-a-service/article_9bc58fe7-02e8-595e-b498-368017e4192b.html",
+          "topic": "Technology",
+          "sentiment": "Positive",
+          "location": "Ohio",
+          "relevanceScore": 95
+        },
+        {
+          "headline": "Ohio Governor DeWine declares state of emergency in 19 counties after severe weather",
+          "summary": "Governor Mike DeWine declared a state of emergency in 19 Ohio counties affected by recent severe weather and directed state departments and agencies to provide services, equipment, supplies and personnel as needed for cleanup. The Ohio Department of Transportation, Ohio State Highway Patrol and Ohio Emergency Management Agency were identified as assisting local authorities.",
+          "entityName": "Governor of Ohio",
+          "category": "Political Institution",
+          "state": "Ohio",
+          "publicationDate": "2026-09-22",
+          "source": "WHIZ - Fox 5 / Marquee Broadcasting",
+          "sourceUrl": "https://www.whiznews.com/governor-dewine-declares-state-of-emergency-in-several-ohio-counties/",
+          "topic": "Operations",
+          "sentiment": "Positive",
+          "location": "Ohio (19 counties)",
+          "relevanceScore": 90
+        }
+      ],
+      "quality": {
+        "duplicatesRemoved": 353,
+        "unsupportedItemsExcluded": 1658,
+        "notes": "Searched all 108 unique canonical names covering all 156 rows across eight states with date-bounded queries, plus eight state-wide discovery queries. Entity searches returned 2,013 raw records and 1,660 distinct URLs; 44 duplicate URL groups (353 duplicate records) were removed across the two query passes. The eight supplemental state-wide searches returned 160 additional leads; all were screened and excluded. Two underlying events were retained and mapped to two canonical rows. Exclusions covered stale or undated pages, keyword collisions, generic/current landing pages, jobs, social posts, tangential material, inaccessible or unsupported snippets, and syndicated copies. The Ohio emergency report showed a relative publication age (13 hours ago) and was date-verified as September 22, 2026; no absolute time was exposed. The NEC/Business Wire mirror exposed PUB 09/22/2026 03:11 PM but omitted a timezone; publicationDate preserves that exact numeric time without assigning a zone. A separate New York governor AI release surfaced on a page updated September 22 but its original publication date was September 21 and was excluded as stale. The two retained sources were opened and verified; duplicate NEC republishings were consolidated to the Rutland Herald/Business Wire copy."
       }
     }
   }
