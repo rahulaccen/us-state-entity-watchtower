@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-02T08:00:00-04:00",
+  "generatedAt": "2026-10-06T08:00:00-04:00",
   "timezone": "America/New_York",
-  "latestDate": "2026-10-02",
+  "latestDate": "2026-10-06",
   "dates": {
     "2026-08-20": {
       "generatedAt": "2026-08-20T12:01:00Z",
@@ -7278,6 +7278,190 @@
         "duplicatesRemoved": 51,
         "unsupportedItemsExcluded": 968,
         "notes": "108 unique entity names were searched (1,036 result rows). After removing 51 repeated URL result rows across 31 URL groups, 985 distinct result URLs remained. Seventeen verified event sources were retained and mapped to 22 canonical entity rows; 968 other distinct URLs were excluded as stale, outside the window, unrelated, generic, social-only, undated, or unverified. Eight state-level supplemental searches returned 120 additional links; title/link screening found no additional verified canonical-entity event, and these supplemental results are not included in the exclusion count. Timestamped sources were checked against the 24-hour window; official pages that exposed only 2026-10-01 are recorded as date-only per the schema. The Oct. 1 Ohio item is the governor's signing of HB 519, a separate subsequent action from the prior-day legislative passage; no effective date is stated because sources conflicted."
+      }
+    },
+    "2026-10-06": {
+      "generatedAt": "2026-10-06T08:00:00-04:00",
+      "window": {
+        "timezone": "America/New_York",
+        "hours": 96,
+        "start": "2026-10-02T08:00:00-04:00",
+        "end": "2026-10-06T08:00:00-04:00"
+      },
+      "items": [
+        {
+          "headline": "Governor Hochul Declares State Disaster Emergency in Response to Ongoing Measles Outbreak",
+          "summary": "New York declared a disaster emergency as the Department of Health continued outbreak monitoring and prevention; the executive order expands the pool of vaccine administrators and lets nurses order measles testing. The state reported 108 confirmed cases through October 3.",
+          "entityName": "New York State Department of Health",
+          "category": "Agency",
+          "state": "New York",
+          "publicationDate": "2026-10-05",
+          "source": "New York State Governor's Office",
+          "sourceUrl": "https://www.governor.ny.gov/news/governor-hochul-declares-state-disaster-emergency-response-ongoing-measles-outbreak",
+          "topic": "Public Service",
+          "sentiment": "Mixed",
+          "location": "New York State",
+          "relevanceScore": 90
+        },
+        {
+          "headline": "Maricopa County recorder says thousands of early mail-in ballots were sent ahead of schedule",
+          "summary": "Runbeck Election Services mistakenly mailed 3,126 early ballots on October 1, six days before the scheduled mailing, without the Recorder's Office authorizing it. County officials said they are reviewing the vendor process; the correct ballots went to the correct voters, and officials reported no adverse voter impact.",
+          "entityName": "Maricopa County",
+          "category": "Agency",
+          "state": "Arizona",
+          "publicationDate": "2026-10-05",
+          "source": "Arizona's Family",
+          "sourceUrl": "https://www.azfamily.com/2026/10/05/maricopa-county-recorder-says-thousands-early-mail-in-ballots-were-sent-ahead-schedule/",
+          "topic": "Operations",
+          "sentiment": "Mixed",
+          "location": "Maricopa County, Arizona",
+          "relevanceScore": 86
+        },
+        {
+          "headline": "Mayor Mamdani to Deliver Free Child Care to More Than 10,000 Low-Income Children",
+          "summary": "New York City will move more than 10,000 children off the Child Care Assistance Program voucher waitlist, supported by a $1.2 billion state investment. The City also added a map feature that lets families find licensed providers accepting vouchers.",
+          "entityName": "New York City Mayor's Office / City Hall",
+          "category": "Political Institution",
+          "state": "New York",
+          "publicationDate": "2026-10-05",
+          "source": "NYC Mayor's Office",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/10/mayor-mamdani-to-deliver-free-child-care-to-more-than-10-000-low",
+          "topic": "Public Service",
+          "sentiment": "Positive",
+          "location": "New York City, New York",
+          "relevanceScore": 84
+        },
+        {
+          "headline": "Mayor Mamdani Launches Partnership With Organized Labor to Modernize Hiring for City Jobs",
+          "summary": "The Mayor and the Department of Citywide Administrative Services formed a labor-management committee to propose in-house and legislative changes for faster, more transparent city hiring. The committee will examine recruitment, testing and technology for a municipal workforce of more than 300,000 employees.",
+          "entityName": "New York City Mayor's Office / City Hall",
+          "category": "Political Institution",
+          "state": "New York",
+          "publicationDate": "2026-10-05",
+          "source": "NYC Mayor's Office",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/10/mayor-mamdani-launches-first-of-its-kind-partnership-with-organi",
+          "topic": "Operations",
+          "sentiment": "Positive",
+          "location": "New York City, New York",
+          "relevanceScore": 80
+        },
+        {
+          "headline": "October 5, 2026: Letter from Governor Stein to the U.S. Department of Health and Human Services",
+          "summary": "Governor Josh Stein urged federal officials to retain Head Start safeguards in a comment letter on a proposed rule, including staffing ratios, comprehensive services, workforce standards and program duration. He said the state supports targeted flexibility but not changes that reduce service quality or access.",
+          "entityName": "Governor of North Carolina",
+          "category": "Political Institution",
+          "state": "North Carolina",
+          "publicationDate": "2026-10-05",
+          "source": "Office of the Governor of North Carolina",
+          "sourceUrl": "https://governor.nc.gov/october-5-2026-letter-governor-stein-us-department-health-and-human-services",
+          "topic": "Policy",
+          "sentiment": "Neutral",
+          "location": "North Carolina / Washington, D.C.",
+          "relevanceScore": 79
+        },
+        {
+          "headline": "Lawmakers to meet Wednesday in special session on fuel prices",
+          "summary": "The North Carolina General Assembly scheduled a special session for October 7 to consider state tax relief on gasoline and diesel. A joint proclamation said legislators had received enough written requests to call the session; the state's fuel tax is 41 cents per gallon.",
+          "entityName": "North Carolina General Assembly",
+          "category": "Political Institution",
+          "state": "North Carolina",
+          "publicationDate": "2026-10-05",
+          "source": "Spectrum News North Carolina",
+          "sourceUrl": "https://spectrumlocalnews.com/nc/charlotte/news/2026/10/05/special-session-nc-fuel-prices",
+          "topic": "Policy",
+          "sentiment": "Neutral",
+          "location": "Raleigh, North Carolina",
+          "relevanceScore": 78
+        },
+        {
+          "headline": "Governor Ron DeSantis Celebrates Opening of New I-95 at Oslo Road Interchange in Indian River County",
+          "summary": "Florida opened the I-95/Oslo Road interchange a year ahead of schedule and widened Oslo Road from two lanes to four. The Governor's Office said the project is expected to improve interstate access, reduce congestion and speed emergency response along the corridor.",
+          "entityName": "Governor of Florida",
+          "category": "Political Institution",
+          "state": "Florida",
+          "publicationDate": "2026-10-05",
+          "source": "Executive Office of the Governor of Florida",
+          "sourceUrl": "https://www.flgov.com/eog/news/press/2026/governor-ron-desantis-celebrates-opening-new-i-95-oslo-road-interchange-indian",
+          "topic": "Operations",
+          "sentiment": "Positive",
+          "location": "Indian River County, Florida",
+          "relevanceScore": 76
+        },
+        {
+          "headline": "First Fridays return to downtown Phoenix with new rules after safety concerns",
+          "summary": "Phoenix's one-year First Fridays pilot began October 2, requiring permits for storefront vendors and keeping Roosevelt Street and nearby roads open to traffic. City officials said the format is intended to improve event management and public safety while restoring the art walk's downtown activity.",
+          "entityName": "City of Phoenix",
+          "category": "Agency",
+          "state": "Arizona",
+          "publicationDate": "2026-10-02T20:03:00-07:00",
+          "source": "ABC15 Arizona",
+          "sourceUrl": "https://www.abc15.com/news/local-news/first-fridays-return-to-downtown-phoenix-with-new-rules-after-safety-concerns",
+          "topic": "Operations",
+          "sentiment": "Neutral",
+          "location": "Phoenix, Arizona",
+          "relevanceScore": 75
+        },
+        {
+          "headline": "JEA customers seek answers on higher bills, Jacksonville resident petitions for lower rates",
+          "summary": "A Jacksonville resident's petition urging JEA to lower rates had collected more than 10,000 signatures after his family received a $500 utility bill. JEA said its October 1 adjustments fund system upgrades and rising costs, while noting that rate and usage changes affect individual bills differently.",
+          "entityName": "JEA",
+          "category": "Agency",
+          "state": "Florida",
+          "publicationDate": "2026-10-05T23:22:00-04:00",
+          "source": "First Coast News",
+          "sourceUrl": "https://www.firstcoastnews.com/article/money/consumer/jea-customers-seek-answers-on-higher-bills/77-d1695652-d107-483b-96dd-282d64fbe439",
+          "topic": "Public Service",
+          "sentiment": "Negative",
+          "location": "Jacksonville, Florida",
+          "relevanceScore": 72
+        },
+        {
+          "headline": "Annual Wildlife Oral Rabies Vaccination Program Begins Mid-October to Help Protect North Carolinians",
+          "summary": "NCDHHS and the U.S. Department of Agriculture planned to distribute about 600,000 oral rabies vaccine baits in western North Carolina, with hand, helicopter and aircraft distribution beginning October 5. The recurring program is intended to prevent raccoon rabies from spreading west of the Appalachians and to protect people and animals.",
+          "entityName": "North Carolina Department of Health and Human Services",
+          "category": "Agency",
+          "state": "North Carolina",
+          "publicationDate": "2026-10-05",
+          "source": "North Carolina Department of Health and Human Services",
+          "sourceUrl": "https://www.ncdhhs.gov/news/press-releases/2026/10/05/annual-wildlife-oral-rabies-vaccination-program-begins-mid-october-help-protect-north-carolinians",
+          "topic": "Public Service",
+          "sentiment": "Positive",
+          "location": "Western North Carolina",
+          "relevanceScore": 72
+        },
+        {
+          "headline": "Bexar County elections website outage restored before voter registration deadline",
+          "summary": "The Bexar County Elections Department said its website was down for less than two hours on the final day to register to vote, then was restored after its vendor resolved the outage. The report did not identify lasting effects on registrations.",
+          "entityName": "Bexar County",
+          "category": "Agency",
+          "state": "Texas",
+          "publicationDate": "2026-10-05",
+          "source": "KSAT",
+          "sourceUrl": "https://www.ksat.com/news/local/2026/10/05/bexar-county-voter-registration-site-goes-down-on-deadline-day/",
+          "topic": "Operations",
+          "sentiment": "Negative",
+          "location": "Bexar County, Texas",
+          "relevanceScore": 66
+        },
+        {
+          "headline": "SwRI, UT San Antonio collaborate to better understand solid rocket propellant combustion",
+          "summary": "Southwest Research Institute and UT San Antonio launched a $125,000 research project to improve chemical-kinetics models for solid propellant and rocket-motor performance. The researchers will combine SwRI's propellant expertise with UT San Antonio's laser diagnostics.",
+          "entityName": "Southwest Research Institute",
+          "category": "Agency",
+          "state": "Texas",
+          "publicationDate": "2026-10-05",
+          "source": "EurekAlert!",
+          "sourceUrl": "https://www.eurekalert.org/news-releases/1146404",
+          "topic": "Partnership",
+          "sentiment": "Positive",
+          "location": "San Antonio, Texas",
+          "relevanceScore": 66
+        }
+      ],
+      "quality": {
+        "duplicatesRemoved": 1,
+        "unsupportedItemsExcluded": 12,
+        "notes": "Reviewed 108 unique canonical names with 67 supplemental government/political-institution targets. From 91 unique opened candidate URLs, retained 12 distinct in-window events; 68 other opened pages were outside the window, unrelated, routine/low relevance, or otherwise non-qualifying, including two Oct. 2 pages with date-only publication evidence insufficient to confirm publication after the 8:00 AM window start. Ten inaccessible Facebook pages were excluded without relying on snippets. One duplicate Maricopa ballots video/report copy was removed."
       }
     }
   }
