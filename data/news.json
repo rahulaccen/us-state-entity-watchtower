@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-23T08:00:00-04:00",
+  "generatedAt": "2026-10-27T12:12:14.634Z",
   "timezone": "America/New_York",
-  "latestDate": "2026-10-23",
+  "latestDate": "2026-10-27",
   "dates": {
     "2026-08-20": {
       "generatedAt": "2026-08-20T12:01:00Z",
@@ -8830,6 +8830,148 @@
         "duplicatesRemoved": 0,
         "unsupportedItemsExcluded": 0,
         "notes": "Limited candidate-level review: searches were completed for all 150 unique name/state targets representing 156 canonical rows, but returned candidates were not exhaustively reviewed. Only individually source-verified, in-window items were included; unverified, low-relevance, duplicate, or unresolved-timing leads were omitted. Exact candidate-level exclusion and duplicate totals were not fully enumerated; the published list contains no duplicate events."
+      }
+    },
+    "2026-10-27": {
+      "generatedAt": "2026-10-27T12:12:14.634Z",
+      "window": {
+        "timezone": "America/New_York",
+        "start": "2026-10-23T08:00:00-04:00",
+        "end": "2026-10-27T08:00:00-04:00",
+        "hours": 96
+      },
+      "items": [
+        {
+          "headline": "New York health department launches respiratory-virus dashboard",
+          "summary": "The New York State Department of Health announced a Seasonal Respiratory Virus Dashboard covering influenza, COVID-19 and RSV. It provides geographic and trend views of laboratory-confirmed cases and hospitalizations.",
+          "entityName": "New York State Department of Health",
+          "category": "Agency",
+          "state": "New York",
+          "publicationDate": "2026-10-26",
+          "source": "New York State Department of Health",
+          "sourceUrl": "https://www.health.ny.gov/press/releases/2026/2026-10-26_respiratory_virus_dashboard.htm",
+          "topic": "Technology",
+          "sentiment": "Positive",
+          "location": "New York State",
+          "relevanceScore": 98
+        },
+        {
+          "headline": "New York health department launches respiratory-virus dashboard",
+          "summary": "The New York State Department of Health announced a Seasonal Respiratory Virus Dashboard covering influenza, COVID-19 and RSV. It provides geographic and trend views of laboratory-confirmed cases and hospitalizations.",
+          "entityName": "New York State Department of Health",
+          "category": "Political Institution",
+          "state": "New York",
+          "publicationDate": "2026-10-26",
+          "source": "New York State Department of Health",
+          "sourceUrl": "https://www.health.ny.gov/press/releases/2026/2026-10-26_respiratory_virus_dashboard.htm",
+          "topic": "Technology",
+          "sentiment": "Positive",
+          "location": "New York State",
+          "relevanceScore": 98
+        },
+        {
+          "headline": "New York City and governor announce $35.7 million Central Park water project",
+          "summary": "The mayor, governor and Central Park Conservancy announced groundbreaking for the North End Recirculation Project. The $35.7 million project is intended to reduce flooding in Harlem and East Harlem and conserve drinking water, with completion expected in fall 2028.",
+          "entityName": "City of New York",
+          "category": "Agency",
+          "state": "New York",
+          "publicationDate": "2026-10-26",
+          "source": "NYC Mayor's Office",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/10/mayor-mamdani-and-governor-hochul-announce-groundbreaking-of--35.html",
+          "topic": "Operations",
+          "sentiment": "Positive",
+          "location": "Central Park, Harlem and East Harlem, New York",
+          "relevanceScore": 96
+        },
+        {
+          "headline": "New York City and governor announce $35.7 million Central Park water project",
+          "summary": "The mayor, governor and Central Park Conservancy announced groundbreaking for the North End Recirculation Project. The $35.7 million project is intended to reduce flooding in Harlem and East Harlem and conserve drinking water, with completion expected in fall 2028.",
+          "entityName": "Governor of New York",
+          "category": "Political Institution",
+          "state": "New York",
+          "publicationDate": "2026-10-26",
+          "source": "NYC Mayor's Office",
+          "sourceUrl": "https://www.nyc.gov/mayors-office/news/2026/10/mayor-mamdani-and-governor-hochul-announce-groundbreaking-of--35.html",
+          "topic": "Operations",
+          "sentiment": "Positive",
+          "location": "Central Park, Harlem and East Harlem, New York",
+          "relevanceScore": 96
+        },
+        {
+          "headline": "Texas governor announces $40 million for teacher workforce development",
+          "summary": "Governor Greg Abbott announced $40 million through the PREP Program Allotment for 411 Texas school systems. The funding supports teacher recruitment, preparation and mentorship.",
+          "entityName": "Governor of Texas",
+          "category": "Political Institution",
+          "state": "Texas",
+          "publicationDate": "2026-10-26",
+          "source": "Office of the Texas Governor",
+          "sourceUrl": "https://gov.texas.gov/news/post/governor-abbott-announces-40-million-to-strengthen-the-texas-teacher-workforce",
+          "topic": "Budget",
+          "sentiment": "Positive",
+          "location": "Texas",
+          "relevanceScore": 96
+        },
+        {
+          "headline": "Anthropic files for a US initial public offering",
+          "summary": "Anthropic filed for an initial public offering, according to NPR reporting carried by Texas Public Radio. The filing is a company-wide financing development, not an announcement of a government contract or a change to Claude for Government.",
+          "entityName": "Anthropic (Claude for Government)",
+          "category": "Ecosystem Partner",
+          "state": "Massachusetts",
+          "publicationDate": "2026-10-26T14:16:00Z",
+          "source": "Texas Public Radio / NPR",
+          "sourceUrl": "https://www.tpr.org/economy-and-labor/2026-10-26/ai-giant-anthropic-files-for-an-ipo-that-could-break-records",
+          "topic": "Financial Results",
+          "sentiment": "Neutral",
+          "location": "United States",
+          "relevanceScore": 95
+        },
+        {
+          "headline": "Anthropic files for a US initial public offering",
+          "summary": "Anthropic filed for an initial public offering, according to NPR reporting carried by Texas Public Radio. The filing is a company-wide financing development, not an announcement of a government contract or a change to Claude for Government.",
+          "entityName": "Anthropic (Claude for Government)",
+          "category": "Ecosystem Partner",
+          "state": "New York",
+          "publicationDate": "2026-10-26T14:16:00Z",
+          "source": "Texas Public Radio / NPR",
+          "sourceUrl": "https://www.tpr.org/economy-and-labor/2026-10-26/ai-giant-anthropic-files-for-an-ipo-that-could-break-records",
+          "topic": "Financial Results",
+          "sentiment": "Neutral",
+          "location": "United States",
+          "relevanceScore": 95
+        },
+        {
+          "headline": "Anthropic files for a US initial public offering",
+          "summary": "Anthropic filed for an initial public offering, according to NPR reporting carried by Texas Public Radio. The filing is a company-wide financing development, not an announcement of a government contract or a change to Claude for Government.",
+          "entityName": "Anthropic (Claude for Government)",
+          "category": "Ecosystem Partner",
+          "state": "Texas",
+          "publicationDate": "2026-10-26T14:16:00Z",
+          "source": "Texas Public Radio / NPR",
+          "sourceUrl": "https://www.tpr.org/economy-and-labor/2026-10-26/ai-giant-anthropic-files-for-an-ipo-that-could-break-records",
+          "topic": "Financial Results",
+          "sentiment": "Neutral",
+          "location": "United States",
+          "relevanceScore": 95
+        },
+        {
+          "headline": "Microsoft buys 37 acres in Ohio's Licking County",
+          "summary": "Data Center Dynamics reports that Microsoft purchased approximately 37 acres in Pataskala for about $6.65 million, expanding its regional land footprint. The report does not identify an Azure Government deployment or a public-sector contract.",
+          "entityName": "Microsoft (Azure Government)",
+          "category": "Ecosystem Partner",
+          "state": "Ohio",
+          "publicationDate": "2026-10-26",
+          "source": "Data Center Dynamics",
+          "sourceUrl": "https://www.datacenterdynamics.com/en/news/microsoft-acquires-37-acres-in-licking-county-ohio/",
+          "topic": "Operations",
+          "sentiment": "Positive",
+          "location": "Pataskala, Licking County, Ohio",
+          "relevanceScore": 85
+        }
+      ],
+      "quality": {
+        "duplicatesRemoved": 1,
+        "unsupportedItemsExcluded": 10,
+        "notes": "Searched all 150 unique name/state targets covering 156 canonical rows across eight states; 895 search hits. Five individually source-verified events mapped to nine canonical entity/category/state rows. One alternative report of the Anthropic IPO consolidated. Ten tracked candidate leads excluded for timing, verification, commentary or overlapping analysis; this is not a count of every search hit rejected. Six entries have date-only publication dates on October 26, wholly inside the window; three Anthropic row entries share an exact publication timestamp. Canonical-row repeats intentionally preserve workbook categories and state mappings and do not represent separate events. Boundary-date-only, pre-window originals with later updates, undated and snippet-only leads excluded. Searches cannot guarantee exhaustive discovery."
       }
     }
   }
